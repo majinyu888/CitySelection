@@ -18,8 +18,7 @@
     }
     
     NSData *data = [NSJSONSerialization dataWithJSONObject:dictionaryOrArray options:NSJSONWritingPrettyPrinted error:nil];
-    if (data == nil)
-    {
+    if (data == nil) {
         return nil;
     }
     NSString *string = [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];
@@ -31,8 +30,7 @@
 
 + (NSData *)JSONSDataWithDictionaryOrArray:(id)dictionaryOrArray
 {
-    if (dictionaryOrArray == nil)
-    {
+    if (dictionaryOrArray == nil) {
         return nil;
     }
     
@@ -43,8 +41,7 @@
 
 + (id)dictionaryOrArrayWithJSONSString:(NSString *)jsonString
 {
-    if (jsonString == nil)
-    {
+    if (jsonString == nil) {
         return nil;
     }
     
@@ -56,8 +53,7 @@
 
 + (id)dictionaryOrArrayWithJSONSData:(NSData *)jsonData
 {
-    if (jsonData == nil)
-    {
+    if (jsonData == nil) {
         return nil;
     }
     
@@ -65,11 +61,10 @@
 }
 
 
-+(NSString *)stringWithForamtUTF8FromData:(NSData *)data
++ (NSString *)stringWithForamtUTF8FromData:(NSData *)data
 {
     
-    if (data == nil)
-    {
+    if (data == nil) {
         return nil;
     }
     
@@ -80,11 +75,10 @@
 }
 
 
-+(NSData *)dataWithJSONString:(NSString *)str
++ (NSData *)dataWithJSONString:(NSString *)str
 {
     
-    if (str == nil)
-    {
+    if (str == nil) {
         return nil;
     }
     

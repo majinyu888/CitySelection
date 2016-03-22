@@ -61,14 +61,14 @@
  * 将Data转换为UTF-8格式的字符串
  @return 字符串
  */
-+(NSString *)stringWithForamtUTF8FromData:(NSData *)data;
++ (NSString *)stringWithForamtUTF8FromData:(NSData *)data;
 
 
 /*
  * 将NSString转换为NSData
  @return NSData
  */
-+(NSData *)dataWithJSONString:(NSString *)str;
++ (NSData *)dataWithJSONString:(NSString *)str;
 
 
 
