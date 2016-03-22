@@ -1,0 +1,2569 @@
+﻿{
+    "citylist": [
+        {
+            "AZ": "热",
+            "cities": [
+                {
+                    "id": "436c7269-b044-4416-98b6-19b09cd1dbb2",
+                    "citycode": "131",
+                    "name": "北京市",
+                    "pyf": "BeiJingShi",
+                    "pys": "BJS"
+                },
+                {
+                    "id": "d72b83a0-b2fb-4edf-9459-b9dd7d941794",
+                    "citycode": "289",
+                    "name": "上海市",
+                    "pyf": "ShangHaiShi",
+                    "pys": "SHS"
+                },
+                {
+                    "id": "f3ce1e28-9f1e-4f86-a9ad-8c0bf32a16fa",
+                    "citycode": "257",
+                    "name": "广州市",
+                    "pyf": "GuangZhouShi",
+                    "pys": "GZS"
+                }
+            ]
+        },
+        {
+            "AZ": "A",
+            "cities": [
+                {
+                    "id": "8ba1c7a1-3c46-4e80-8e9f-72a96496732c",
+                    "citycode": "103",
+                    "name": "阿里地区",
+                    "pyf": "ALiDiQu",
+                    "pys": "ALDQ"
+                },
+                {
+                    "id": "717126a5-e0ec-41f4-b520-13194e8e8bed",
+                    "citycode": "130",
+                    "name": "安庆市",
+                    "pyf": "AnQingShi",
+                    "pys": "AQS"
+                },
+                {
+                    "id": "af46691d-b73f-46ee-ad37-dacb96a52120",
+                    "citycode": "230",
+                    "name": "阿拉善盟",
+                    "pyf": "ALaShanMeng",
+                    "pys": "ALSM"
+                },
+                {
+                    "id": "de81b85a-ece3-441d-98ed-5deffdb36e11",
+                    "citycode": "263",
+                    "name": "安顺市",
+                    "pyf": "AnShunShi",
+                    "pys": "ASS"
+                },
+                {
+                    "id": "31348c27-eb8f-422a-a70d-d86c8bf99a21",
+                    "citycode": "267",
+                    "name": "安阳市",
+                    "pyf": "AnYangShi",
+                    "pys": "AYS"
+                },
+                {
+                    "id": "fbbe90fa-6b21-48b9-b083-e7915bfdfedc",
+                    "citycode": "2911",
+                    "name": "澳门特别行政区",
+                    "pyf": "AoMenTeBieXingZhengQu",
+                    "pys": "AMTBXZQ"
+                },
+                {
+                    "id": "45e33118-11cc-4c7d-a4c5-b7f5def9ba90",
+                    "citycode": "320",
+                    "name": "鞍山市",
+                    "pyf": "AnShangShi",
+                    "pys": "ASS"
+                },
+                {
+                    "id": "4ef0ef3b-bb23-4d79-ae88-7a3ad93b5609",
+                    "citycode": "324",
+                    "name": "安康市",
+                    "pyf": "AnKangShi",
+                    "pys": "AKS"
+                },
+                {
+                    "id": "dc29c62e-594c-4c20-93d7-a2e32ab8dfb8",
+                    "citycode": "85",
+                    "name": "阿克苏地区",
+                    "pyf": "AKeSuDiQu",
+                    "pys": "AKSDQ"
+                },
+                {
+                    "id": "58767190-4c75-4534-b005-da9a84336df2",
+                    "citycode": "96",
+                    "name": "阿勒泰地区",
+                    "pyf": "ALeTaiDiQu",
+                    "pys": "ALTDQ"
+                }
+            ]
+        },
+        {
+            "AZ": "B",
+            "cities": [
+                {
+                    "id": "476e62b1-30a7-4e46-8a24-cd2638d632f7",
+                    "citycode": "112",
+                    "name": "保山市",
+                    "pyf": "BaoShanShi",
+                    "pys": "BSS"
+                },
+                {
+                    "id": "49df132c-cb7e-4df6-b597-a6df940a9ad1",
+                    "citycode": "126",
+                    "name": "蚌埠市",
+                    "pyf": "BengBuShi",
+                    "pys": "BBS"
+                },
+                {
+                    "id": "436c7269-b044-4416-98b6-19b09cd1dbb2",
+                    "citycode": "131",
+                    "name": "北京市",
+                    "pyf": "BeiJingShi",
+                    "pys": "BJS"
+                },
+                {
+                    "id": "17ececcb-94ac-4ee3-869f-59692c1dff6a",
+                    "citycode": "169",
+                    "name": "巴彦淖尔市",
+                    "pyf": "BaYanNaoErShi",
+                    "pys": "BYNES"
+                },
+                {
+                    "id": "a7bc66e8-4e5b-47ff-b32e-613373b473bc",
+                    "citycode": "171",
+                    "name": "宝鸡",
+                    "pyf": "BaoJi",
+                    "pys": "BJ"
+                },
+                {
+                    "id": "8afecff9-805b-4673-859c-db888e2da297",
+                    "citycode": "185",
+                    "name": "坝藏族羌族自治州",
+                    "pyf": "BaZangZuQiangZuZiZhiZhou",
+                    "pys": "BZZQZZZZ"
+                },
+                {
+                    "id": "0bd6c28c-95eb-463a-bd3f-0b6df52d34a1",
+                    "citycode": "203",
+                    "name": "百色市",
+                    "pyf": "BaiSeShi",
+                    "pys": "BSS"
+                },
+                {
+                    "id": "9c8ff009-984a-4705-a1b7-1db81b746032",
+                    "citycode": "206",
+                    "name": "毕节地区",
+                    "pyf": "BiJieDiQu",
+                    "pys": "BJDQ"
+                },
+                {
+                    "id": "3b4b2eec-eb38-4024-9f88-b4cd702906b9",
+                    "citycode": "227",
+                    "name": "本溪市",
+                    "pyf": "BenXiShi",
+                    "pys": "BXS"
+                },
+                {
+                    "id": "56be82f9-fb9f-4b5b-8875-38f47533226e",
+                    "citycode": "229",
+                    "name": "包头市",
+                    "pyf": "BaoTouShi",
+                    "pys": "BTS"
+                },
+                {
+                    "id": "244d8c1e-5dd2-4d8b-b104-62419408d0bd",
+                    "citycode": "235",
+                    "name": "滨州市",
+                    "pyf": "BinZhouShi",
+                    "pys": "BZS"
+                },
+                {
+                    "id": "6ea5be1d-1acf-4360-8932-451fcefa35e2",
+                    "citycode": "235",
+                    "name": "滨州市",
+                    "pyf": "BinZhouShi",
+                    "pys": "BZS"
+                },
+                {
+                    "id": "c0be0bb2-ecaa-4a6a-a46c-905094ad0ea1",
+                    "citycode": "239",
+                    "name": "巴中市",
+                    "pyf": "BaZhongShi",
+                    "pys": "BZS"
+                },
+                {
+                    "id": "c2efb0e3-4218-4944-ada4-3601859df98b",
+                    "citycode": "295",
+                    "name": "北海市",
+                    "pyf": "BeiHaiShi",
+                    "pys": "BHS"
+                },
+                {
+                    "id": "083981b5-6d57-491f-9d3e-00b98aad72df",
+                    "citycode": "307",
+                    "name": "保定市",
+                    "pyf": "BaoDingShi",
+                    "pys": "BDS"
+                },
+                {
+                    "id": "80ea9949-e4cc-4150-ae3c-5cf87f2b2d6d",
+                    "citycode": "35",
+                    "name": "白银市",
+                    "pyf": "BaiYinShi",
+                    "pys": "BYS"
+                },
+                {
+                    "id": "b5d2fe54-cde0-4d3c-b72b-41d17875c3a2",
+                    "citycode": "51",
+                    "name": "白城市",
+                    "pyf": "BaiChengShi",
+                    "pys": "BCS"
+                },
+                {
+                    "id": "d06ae3a0-7e2c-4967-b8f3-1c0d4c476fd0",
+                    "citycode": "57",
+                    "name": "白山市",
+                    "pyf": "BaiShanShi",
+                    "pys": "BSS"
+                },
+                {
+                    "id": "cfb3b7f3-9928-4928-a6e5-152e2d799280",
+                    "citycode": "86",
+                    "name": "巴音郭楞蒙古自治州",
+                    "pyf": "BaYinGuoLengMengGuZiZhiZhou",
+                    "pys": "BYGLMGZZZ"
+                },
+                {
+                    "id": "8aaa001a-367c-4b5d-b777-149dc9c57dd0",
+                    "citycode": "88",
+                    "name": "博尔塔拉蒙古自治州",
+                    "pyf": "BoErTaLaMengGuZiZhiZhou",
+                    "pys": "BETLMGZZZ"
+                },
+                {
+                    "id": "15cf1bf9-9452-4d66-8820-c36e09c70a9d",
+                    "citycode": "188",
+                    "name": "亳州市",
+                    "pyf": "BoZhouShi",
+                    "pys": "BZS"
+                }
+            ]
+        },
+        {
+            "AZ": "C",
+            "cities": [
+                {
+                    "id": "83608b21-5bf5-4010-9cf6-5e27a17927b9",
+                    "citycode": "105",
+                    "name": "楚雄彝族自治州",
+                    "pyf": "ChuXiongYiZuZiZhiZhou",
+                    "pys": "CXYZZZZ"
+                },
+                {
+                    "id": "3c8ce10f-b8cf-49a9-83e4-6d10d81c2967",
+                    "citycode": "132",
+                    "name": "重庆市",
+                    "pyf": "ChongQingShi",
+                    "pys": "CQS"
+                },
+                {
+                    "id": "019fa4d3-830e-43c0-b788-0b050e20a091",
+                    "citycode": "144",
+                    "name": "崇左市",
+                    "pyf": "ChongZuoShi",
+                    "pys": "CZS"
+                },
+                {
+                    "id": "b49a5f24-d8dc-4738-9cb7-b9c4b57df548",
+                    "citycode": "149",
+                    "name": "沧州市",
+                    "pyf": "CangZhouShi",
+                    "pys": "CZS"
+                },
+                {
+                    "id": "4fb19b22-eebb-4038-a25f-746d94df2f8c",
+                    "citycode": "158",
+                    "name": "长沙市",
+                    "pyf": "ChangShaShi",
+                    "pys": "CSS"
+                },
+                {
+                    "id": "7c68eb5c-9e6a-4672-9dbb-72006eadc81d",
+                    "citycode": "189",
+                    "name": "滁州市",
+                    "pyf": "ChuZhouShi",
+                    "pys": "CZS"
+                },
+                {
+                    "id": "244a4403-16c6-4e30-9eb4-7d130ffa6dfb",
+                    "citycode": "201",
+                    "name": "潮州市",
+                    "pyf": "ChaoZhouShi",
+                    "pys": "CZS"
+                },
+                {
+                    "id": "d704a431-6262-4a05-b3e7-6f93e5ef2c1f",
+                    "citycode": "207",
+                    "name": "承德市",
+                    "pyf": "ChengDeShi",
+                    "pys": "CDS"
+                },
+                {
+                    "id": "218d78fd-856b-4058-a8b9-7d033a4b1991",
+                    "citycode": "219",
+                    "name": "常德市",
+                    "pyf": "ChangDeShi",
+                    "pys": "CDS"
+                },
+                {
+                    "id": "8932b5d2-8736-4484-aa0d-f9a55a56b7ec",
+                    "citycode": "251",
+                    "name": "巢湖市",
+                    "pyf": "ChaoHuShi",
+                    "pys": "CHS"
+                },
+                {
+                    "id": "912c6327-4745-4de8-9e9d-95d4ac01aa07",
+                    "citycode": "275",
+                    "name": "郴州市",
+                    "pyf": "ChenZhouShi",
+                    "pys": "CZS"
+                },
+                {
+                    "id": "61832deb-d4a5-4768-be57-925012b2092f",
+                    "citycode": "280",
+                    "name": "朝阳市",
+                    "pyf": "ChaoYangShi",
+                    "pys": "CYS"
+                },
+                {
+                    "id": "4b588836-c56f-4ed2-a581-30226d4fcbdb",
+                    "citycode": "297",
+                    "name": "赤峰市",
+                    "pyf": "ChiFengShi",
+                    "pys": "CFS"
+                },
+                {
+                    "id": "27fdda07-a4ea-4fa9-ad4e-89c8ddd86938",
+                    "citycode": "299",
+                    "name": "池州市",
+                    "pyf": "ChiZhouShi",
+                    "pys": "CZS"
+                },
+                {
+                    "id": "ac6a71c1-e52f-4d03-912a-a23cceb58ab4",
+                    "citycode": "348",
+                    "name": "常州市",
+                    "pyf": "ChangZhouShi",
+                    "pys": "CZS"
+                },
+                {
+                    "id": "bb1405b2-dfca-4466-acb1-8412e1033636",
+                    "citycode": "356",
+                    "name": "长治市",
+                    "pyf": "ChangZhiShi",
+                    "pys": "CZS"
+                },
+                {
+                    "id": "f0f5dfd2-29f9-4af6-a8dd-268789719873",
+                    "citycode": "53",
+                    "name": "长春市",
+                    "pyf": "ChangChunShi",
+                    "pys": "CCS"
+                },
+                {
+                    "id": "b0fc7fad-aa6a-488f-b52b-f75c0d94a518",
+                    "citycode": "75",
+                    "name": "成都市",
+                    "pyf": "ChengDuShi",
+                    "pys": "CDs"
+                },
+                {
+                    "id": "998a9f77-8e48-4a22-bd8b-3aa2783acded",
+                    "citycode": "93",
+                    "name": "昌吉回族自治州",
+                    "pyf": "ChangJiHuiZuZiZhiZhou",
+                    "pys": "CJHZZZZ"
+                },
+                {
+                    "id": "2581c584-58f6-4859-831c-8d4b1a843671",
+                    "citycode": "99",
+                    "name": "昌都地区",
+                    "pyf": "ChangDuDiQu",
+                    "pys": "CDDQ"
+                }
+            ]
+        },
+        {
+            "AZ": "D",
+            "cities": [
+                {
+                    "id": "6d17c432-61d6-4669-bb4b-8ba6fb939f67",
+                    "citycode": "111",
+                    "name": "大理白族自治州",
+                    "pyf": "DaLiBaiZuZiZhiZhou",
+                    "pys": "DLBZZZZ"
+                },
+                {
+                    "id": "b61bed0e-fc92-436d-b842-dc4393f4d420",
+                    "citycode": "115",
+                    "name": "迪庆藏族自治州",
+                    "pyf": "DiQingZangZuZiZhiZhou",
+                    "pys": "DQZZZZZ"
+                },
+                {
+                    "id": "a9fb3757-3b1c-4eb4-ad60-d2ce86492736",
+                    "citycode": "116",
+                    "name": "德宏傣族景颇族自治州",
+                    "pyf": "DeHongDaiZuJingPoZuZiZhiZhou",
+                    "pys": "DHDZJPZZZZ"
+                },
+                {
+                    "id": "3455b006-181f-41db-867c-595512614196",
+                    "citycode": "119",
+                    "name": "东莞市",
+                    "pyf": "DongGuanShi",
+                    "pys": "DGS"
+                },
+                {
+                    "id": "8bfd5e80-508c-442d-a11a-7488a4760aa8",
+                    "citycode": "120",
+                    "name": "东沙群岛",
+                    "pyf": "DongShaQunDao",
+                    "pys": "DSQD"
+                },
+                {
+                    "id": "8980ebce-302d-4985-91d7-d487a43ddcf2",
+                    "citycode": "136",
+                    "name": "定西市",
+                    "pyf": "DingXiShi",
+                    "pys": "DXS"
+                },
+                {
+                    "id": "2de9c92f-249c-4b01-8cbe-0942f7372aeb",
+                    "citycode": "167",
+                    "name": "大连市",
+                    "pyf": "DaLianShi",
+                    "pys": "DLS"
+                },
+                {
+                    "id": "fcae552d-f12c-4fb0-a2c3-1dcedd7238db",
+                    "citycode": "174",
+                    "name": "东营市",
+                    "pyf": "DongYingShi",
+                    "pys": "DYS"
+                },
+                {
+                    "id": "a9bd3eb6-8346-43b0-a5aa-57d3067228ca",
+                    "citycode": "282",
+                    "name": "丹东市",
+                    "pyf": "DanDongShi",
+                    "pys": "DDS"
+                },
+                {
+                    "id": "d058a6c9-f750-4296-8769-e8a5bea5e321",
+                    "citycode": "355",
+                    "name": "大同市",
+                    "pyf": "DaTongShi",
+                    "pys": "DTS"
+                },
+                {
+                    "id": "da2e425d-c2d8-4b91-bb75-85ae98a9009f",
+                    "citycode": "369",
+                    "name": "达州市",
+                    "pyf": "DaZhouShi",
+                    "pys": "DZS"
+                },
+                {
+                    "id": "c15d841c-6182-465d-b57f-f4582405c29d",
+                    "citycode": "372",
+                    "name": "德州市",
+                    "pyf": "DeZhouShi",
+                    "pys": "DZS"
+                },
+                {
+                    "id": "15a82504-2547-4837-96b7-4cec051ecf56",
+                    "citycode": "38",
+                    "name": "大兴安岭地区",
+                    "pyf": "DaXingAnLingDiQu",
+                    "pys": "DXALDQ"
+                },
+                {
+                    "id": "ed1d831d-de08-434c-b069-f60300385971",
+                    "citycode": "50",
+                    "name": "大庆市",
+                    "pyf": "DaQingShi",
+                    "pys": "DQS"
+                },
+                {
+                    "id": "b9a0b608-13ae-4742-bbc2-098158fce9c6",
+                    "citycode": "74",
+                    "name": "德阳市",
+                    "pyf": "DeYangShi",
+                    "pys": "DYS"
+                }
+            ]
+        },
+        {
+            "AZ": "E",
+            "cities": [
+                {
+                    "id": "3c153560-4702-4926-8660-8ef1b22b9e0e",
+                    "citycode": "122",
+                    "name": "鄂州市",
+                    "pyf": "EZhouShi",
+                    "pys": "EZS"
+                },
+                {
+                    "id": "94a4daf5-7812-4f39-896e-2c895b597488",
+                    "citycode": "283",
+                    "name": "鄂尔多斯市",
+                    "pyf": "EErDuoSiShi",
+                    "pys": "EEDSS"
+                },
+                {
+                    "id": "8d8845ef-bb71-4e60-8ac6-e7b57302cad9",
+                    "citycode": "373",
+                    "name": "恩施土家族苗族自治州",
+                    "pyf": "EnShiTuJiaZuMiaoZuZiZhiZhou",
+                    "pys": "ESTJZMZZZZ"
+                }
+            ]
+        },
+        {
+            "AZ": "F",
+            "cities": [
+                {
+                    "id": "377f298f-e2cc-4b8f-89a7-4297bf608ecc",
+                    "citycode": "128",
+                    "name": "阜阳市",
+                    "pyf": "FuYangShi",
+                    "pys": "FYS"
+                },
+                {
+                    "id": "de089fdb-577d-4c1f-a207-d410f21c7233",
+                    "citycode": "138",
+                    "name": "佛山市",
+                    "pyf": "FoShanShi",
+                    "pys": "FSS"
+                },
+                {
+                    "id": "4a9c8e08-9ec9-44e4-87eb-b9db4b77963a",
+                    "citycode": "184",
+                    "name": "抚顺市",
+                    "pyf": "FuShunShi",
+                    "pys": "FSS"
+                },
+                {
+                    "id": "f2f491bb-912c-4561-aef0-6f00f9aa061a",
+                    "citycode": "204",
+                    "name": "防城港市",
+                    "pyf": "FangChengGangShi",
+                    "pys": "FCGS"
+                },
+                {
+                    "id": "89623b99-bfcd-446e-8885-c9d6f912dbca",
+                    "citycode": "226",
+                    "name": "抚州市",
+                    "pyf": "FuZhouShi",
+                    "pys": "FZS"
+                },
+                {
+                    "id": "d01c9d82-fe5c-41c3-a746-d9e2eb2ad39b",
+                    "citycode": "300",
+                    "name": "福州市",
+                    "pyf": "FuZhouShi",
+                    "pys": "FZS"
+                },
+                {
+                    "id": "b2a2adc1-ae31-4313-ae41-5ebfc3bcf244",
+                    "citycode": "59",
+                    "name": "阜新市",
+                    "pyf": "FuXinShi",
+                    "pys": "FXS"
+                }
+            ]
+        },
+        {
+            "AZ": "G",
+            "cities": [
+                {
+                    "id": "c040d72a-ef20-4911-b6f7-545588a8b10d",
+                    "citycode": "142",
+                    "name": "桂林市",
+                    "pyf": "GuiLinShi",
+                    "pys": "GLS"
+                },
+                {
+                    "id": "2c985926-871e-4821-b3ba-fbeeb125f0ff",
+                    "citycode": "146",
+                    "name": "贵阳市",
+                    "pyf": "GuiYangShi",
+                    "pys": "GYS"
+                },
+                {
+                    "id": "77c3f14d-cffe-4da3-9234-312fe8fbe571",
+                    "citycode": "241",
+                    "name": "广安市",
+                    "pyf": "GuangAnShi",
+                    "pys": "GAS"
+                },
+                {
+                    "id": "b486f4c9-1fe8-40db-b999-54e245776011",
+                    "citycode": "246",
+                    "name": "固原市",
+                    "pyf": "GuYuanShi",
+                    "pys": "GYS"
+                },
+                {
+                    "id": "5fcdb122-fee7-4bbd-bf54-200639894d84",
+                    "citycode": "247",
+                    "name": "甘南藏族自治州",
+                    "pyf": "GanNanZangZuZiZhiZhou",
+                    "pys": "GNZZZZZ"
+                },
+                {
+                    "id": "f3ce1e28-9f1e-4f86-a9ad-8c0bf32a16fa",
+                    "citycode": "257",
+                    "name": "广州市",
+                    "pyf": "GuangZhouShi",
+                    "pys": "GZS"
+                },
+                {
+                    "id": "abbe8c32-a5f5-4ac9-84d8-f4e93f69b062",
+                    "citycode": "329",
+                    "name": "广元市",
+                    "pyf": "GuangYuanShi",
+                    "pys": "GYS"
+                },
+                {
+                    "id": "6c78c019-4ebd-44ee-ab11-973d52fa12ed",
+                    "citycode": "341",
+                    "name": "贵港市",
+                    "pyf": "GuiGangShi",
+                    "pys": "GGS"
+                },
+                {
+                    "id": "8948b11f-8cc0-4254-8648-f38066856a9a",
+                    "citycode": "365",
+                    "name": "赣州市",
+                    "pyf": "GanZhouShi",
+                    "pys": "GZS"
+                },
+                {
+                    "id": "496e37e7-66ba-40ba-ac12-aad3ff9fb581",
+                    "citycode": "72",
+                    "name": "果洛藏族自治州",
+                    "pyf": "GuoLuoZangZuZiZhiZhou",
+                    "pys": "GLZZZZZ"
+                },
+                {
+                    "id": "ffda9876-5f99-4f65-bfc4-710bbe0a7210",
+                    "citycode": "73",
+                    "name": "甘孜藏族自治州",
+                    "pyf": "GanZiZangZuZiZhiZhou",
+                    "pys": "GZZZZZZ"
+                }
+            ]
+        },
+        {
+            "AZ": "H",
+            "cities": [
+                {
+                    "id": "f6cf5920-7971-440a-bc22-b8186a2cf72e",
+                    "citycode": "107",
+                    "name": "红河哈尼族彝族自治州",
+                    "pyf": "HongHeHaNiZuYiZuZiZhiZhou",
+                    "pys": "HHHNZYZZZZ"
+                },
+                {
+                    "id": "7653c022-2323-4dab-90b9-c4b6cee54b37",
+                    "citycode": "125",
+                    "name": "海口市",
+                    "pyf": "HaiKouShi",
+                    "pys": "HKS"
+                },
+                {
+                    "id": "58359efe-4cd9-49d5-b0e8-356920517668",
+                    "citycode": "1277",
+                    "name": "河南省直辖县级行政单位",
+                    "pyf": "HeNanShengXiaXianJiXingZhengDanWei",
+                    "pys": "HNSZXXJXZDW"
+                },
+                {
+                    "id": "debdda71-dbe9-4ded-8c61-1d8795df36da",
+                    "citycode": "127",
+                    "name": "合肥市",
+                    "pyf": "HeFeiShi",
+                    "pys": "HFS"
+                },
+                {
+                    "id": "fbee316c-e014-4caf-8c8a-ab6424272a1e",
+                    "citycode": "143",
+                    "name": "河池市",
+                    "pyf": "HeChiShi",
+                    "pys": "HCS"
+                },
+                {
+                    "id": "a9bc8b38-fe51-4ba1-9ae7-0de23ce2bac9",
+                    "citycode": "151",
+                    "name": "邯郸市",
+                    "pyf": "HanDanShi",
+                    "pys": "HDS"
+                },
+                {
+                    "id": "669f98f0-1ee3-49af-bf44-8a8b4e4e68bb",
+                    "citycode": "159",
+                    "name": "衡阳市",
+                    "pyf": "HengYangShi",
+                    "pys": "HYS"
+                },
+                {
+                    "id": "0da20dcb-03ab-43ce-9590-47e03bacb1a1",
+                    "citycode": "162",
+                    "name": "淮安市",
+                    "pyf": "HuaiAnShi",
+                    "pys": "HAS"
+                },
+                {
+                    "id": "de535b1f-614e-4c62-bfcb-771ec00eea6f",
+                    "citycode": "179",
+                    "name": "杭州市",
+                    "pyf": "HangZhouShi",
+                    "pys": "HZS"
+                },
+                {
+                    "id": "7e4213ff-0c43-4d15-888e-b3dfdf1b0571",
+                    "citycode": "200",
+                    "name": "河源市",
+                    "pyf": "HeYuanShi",
+                    "pys": "HYS"
+                },
+                {
+                    "id": "89ba7644-fb02-4161-9f16-aac41399b6ca",
+                    "citycode": "208",
+                    "name": "衡水市",
+                    "pyf": "HengShuiShi",
+                    "pys": "HSS"
+                },
+                {
+                    "id": "6c8380d8-399f-4be5-89e8-9b9e2d8684ff",
+                    "citycode": "215",
+                    "name": "鹤壁市",
+                    "pyf": "HeBiShi",
+                    "pys": "HBS"
+                },
+                {
+                    "id": "8a2a76b3-c9c5-42e7-a2f0-535e6b57e2d9",
+                    "citycode": "250",
+                    "name": "淮南市",
+                    "pyf": "HuaiNanShi",
+                    "pys": "HNS"
+                },
+                {
+                    "id": "f6c51c67-2da3-432f-86dd-240af850593b",
+                    "citycode": "252",
+                    "name": "黄山市",
+                    "pyf": "HuangShanShi",
+                    "pys": "HSS"
+                },
+                {
+                    "id": "75f17919-c749-445b-b4b0-6aa46edd2d93",
+                    "citycode": "253",
+                    "name": "淮北市",
+                    "pyf": "HuaiBeiShi",
+                    "pys": "HBS"
+                },
+                {
+                    "id": "bcb60c8e-0ea3-491d-ab5f-f240119da5d8",
+                    "citycode": "260",
+                    "name": "贺州市",
+                    "pyf": "HeZhouShi",
+                    "pys": "HZS"
+                },
+                {
+                    "id": "e33f1c95-b8d2-47dd-91b1-bcfac8bc4c0c",
+                    "citycode": "271",
+                    "name": "黄冈市",
+                    "pyf": "HuangGangShi",
+                    "pys": "HGS"
+                },
+                {
+                    "id": "7aad230f-d0dd-463b-a3bd-56834f19830b",
+                    "citycode": "294",
+                    "name": "湖州市",
+                    "pyf": "HuZhouShi",
+                    "pys": "HZS"
+                },
+                {
+                    "id": "82100a1f-a370-4a39-ab6e-fa82d7dad79f",
+                    "citycode": "296",
+                    "name": "海南省直辖县级行政单位",
+                    "pyf": "HaiNanShengZhiXiaXianJiXingZhengDanWei",
+                    "pys": "HNSZXXJXZDW"
+                },
+                {
+                    "id": "fbf34f14-c2b1-4fe6-aa27-30b2d9d8db08",
+                    "citycode": "301",
+                    "name": "惠州市",
+                    "pyf": "HuiZhouShi",
+                    "pys": "HZS"
+                },
+                {
+                    "id": "f26f8473-06c5-4da2-ba5b-f93fb38d3178",
+                    "citycode": "311",
+                    "name": "黄石市",
+                    "pyf": "HuangShiShi",
+                    "pys": "HSS"
+                },
+                {
+                    "id": "7c944b1d-326e-4ba2-a1bb-4b3c45184e05",
+                    "citycode": "319",
+                    "name": "葫芦岛市",
+                    "pyf": "HuLuDaoShi",
+                    "pys": "HLDS"
+                },
+                {
+                    "id": "9f43afed-3cbb-4bec-9dd5-92a305200c6b",
+                    "citycode": "321",
+                    "name": "呼和浩特市",
+                    "pyf": "HuHeHaoTeShi",
+                    "pys": "HHHTS"
+                },
+                {
+                    "id": "5e528bac-75e5-41b5-bf8c-4f369c103dba",
+                    "citycode": "345",
+                    "name": "湖北省直辖县级行政单位",
+                    "pyf": "HuBeiShengZhiXiaXianJiXingZhengDanWei",
+                    "pys": "HBSZXXJXZDW"
+                },
+                {
+                    "id": "c1f0b674-e43b-4ac2-b699-355831e1500a",
+                    "citycode": "352",
+                    "name": "汉中市",
+                    "pyf": "HanZhongShi",
+                    "pys": "HZS"
+                },
+                {
+                    "id": "3db27eb7-993e-4d23-a540-9efbe2456be9",
+                    "citycode": "353",
+                    "name": "菏泽市",
+                    "pyf": "HeZeShi",
+                    "pys": "HZS"
+                },
+                {
+                    "id": "8005c731-9c90-4225-96bd-ca727bda774e",
+                    "citycode": "363",
+                    "name": "怀化市",
+                    "pyf": "HuaiHuaShi",
+                    "pys": "HHS"
+                },
+                {
+                    "id": "be441c0c-6f24-40bd-b872-6a7056ab8937",
+                    "citycode": "39",
+                    "name": "黑河市",
+                    "pyf": "HeiHeShi",
+                    "pys": "HHS"
+                },
+                {
+                    "id": "6ac8857c-f6e9-4b07-b234-1992110af7af",
+                    "citycode": "43",
+                    "name": "鹤岗市",
+                    "pyf": "HeGangShi",
+                    "pys": "HGS"
+                },
+                {
+                    "id": "5fd73a72-ca71-4e9a-a4c0-1238748ecf9e",
+                    "citycode": "48",
+                    "name": "哈尔滨市",
+                    "pyf": "HaErBinShi",
+                    "pys": "HEBS"
+                },
+                {
+                    "id": "8ecb5ee3-1467-4f50-ac97-4a16b3686f2d",
+                    "citycode": "61",
+                    "name": "呼伦贝尔市",
+                    "pyf": "HuLunBeiErShi",
+                    "pys": "HLBES"
+                },
+                {
+                    "id": "cd0988bc-ab8e-4df3-b1e9-e7f565319db4",
+                    "citycode": "65",
+                    "name": "海西蒙古族藏族自治州",
+                    "pyf": "HaiXiMengGuZuZangZuZiZhiZhou",
+                    "pys": "HXMGZZZZZZ"
+                },
+                {
+                    "id": "b440089c-1920-4b9e-9000-85f3571b082a",
+                    "citycode": "67",
+                    "name": "海北藏族自治州",
+                    "pyf": "HaiBeiZangZuZiZhiZhou",
+                    "pys": "HBZZZZZ"
+                },
+                {
+                    "id": "12d1d01e-3201-4d35-8108-347433b232db",
+                    "citycode": "68",
+                    "name": "海南藏族自治州",
+                    "pyf": "HaiNanZangZuZiZhiZhou",
+                    "pys": "HNZZZZZ"
+                },
+                {
+                    "id": "5d7dcbc6-6799-437f-b74e-bae7d4d69164",
+                    "citycode": "69",
+                    "name": "海东地区",
+                    "pyf": "HaiDongDiQu",
+                    "pys": "HDDQ"
+                },
+                {
+                    "id": "8e704d9f-04fe-410f-9edf-b5136705d3cd",
+                    "citycode": "70",
+                    "name": "黄南藏族自治州",
+                    "pyf": "HuangNanZangZuZiZhiZhou",
+                    "pys": "HNZZZZZ"
+                },
+                {
+                    "id": "2f55455d-b89c-4371-8500-8926138c314d",
+                    "citycode": "82",
+                    "name": "和田地区",
+                    "pyf": "HeTianDiQu",
+                    "pys": "HTDQ"
+                },
+                {
+                    "id": "9ea74772-7636-4365-ada7-9477fee3fd6d",
+                    "citycode": "91",
+                    "name": "哈密地区",
+                    "pyf": "HaMiDiQu",
+                    "pys": "HMDQ"
+                }
+            ]
+        },
+        {
+            "AZ": "J",
+            "cities": [
+                {
+                    "id": "0146db71-6e31-46f2-943d-b7f17e91e516",
+                    "citycode": "1277",
+                    "name": "济源市",
+                    "pyf": "JiYuanShi",
+                    "pys": "JYS"
+                },
+                {
+                    "id": "1adb0352-615d-491d-af0d-76ba8ed83963",
+                    "citycode": "157",
+                    "name": "荆州市",
+                    "pyf": "JinZhouShi",
+                    "pys": "JZS"
+                },
+                {
+                    "id": "a7eb3157-bbce-4d86-b930-a413b8e16acd",
+                    "citycode": "166",
+                    "name": "锦州市",
+                    "pyf": "JinZhouShi",
+                    "pys": "JZS"
+                },
+                {
+                    "id": "573347ba-a735-4d75-9b1c-706d8937c1d3",
+                    "citycode": "211",
+                    "name": "焦作市",
+                    "pyf": "JiaoZuoShi",
+                    "pys": "JZS"
+                },
+                {
+                    "id": "e4775c3b-dfd7-4fad-b451-f1456cfa6ec8",
+                    "citycode": "217",
+                    "name": "荆门市",
+                    "pyf": "JinMenShi",
+                    "pys": "JMS"
+                },
+                {
+                    "id": "306efbe1-043a-4bb2-8082-28a6140218db",
+                    "citycode": "225",
+                    "name": "景德镇市",
+                    "pyf": "JingDeZhenShi",
+                    "pys": "JDZS"
+                },
+                {
+                    "id": "bc5f1581-a71f-4d77-8947-c80a49a911f1",
+                    "citycode": "238",
+                    "name": "晋中市",
+                    "pyf": "JinZhongShi",
+                    "pys": "JZS"
+                },
+                {
+                    "id": "c2ae8c6e-1e04-4f49-8e9b-12dab194740a",
+                    "citycode": "259",
+                    "name": "揭阳市",
+                    "pyf": "JieYangShi",
+                    "pys": "JYS"
+                },
+                {
+                    "id": "d6da5eef-a3cd-4c95-829a-79d15030036e",
+                    "citycode": "286",
+                    "name": "济宁市",
+                    "pyf": "JiNingShi",
+                    "pys": "JNS"
+                },
+                {
+                    "id": "2d9ce29f-9483-4662-9f9d-04da98dd0902",
+                    "citycode": "288",
+                    "name": "济南市",
+                    "pyf": "JiNingShi",
+                    "pys": "JNS"
+                },
+                {
+                    "id": "706037a7-fdd2-440e-81fb-0f244c060e44",
+                    "citycode": "290",
+                    "name": "晋城市",
+                    "pyf": "JinChengShi",
+                    "pys": "JCS"
+                },
+                {
+                    "id": "c0c7ce3e-c6ec-49de-ba14-6886da5fcb03",
+                    "citycode": "302",
+                    "name": "江门市",
+                    "pyf": "JiangMenShi",
+                    "pys": "JMS"
+                },
+                {
+                    "id": "efbc3e68-8948-4b60-ad02-58ece014ece0",
+                    "citycode": "318",
+                    "name": "吉安市",
+                    "pyf": "JiAnShi",
+                    "pys": "JAS"
+                },
+                {
+                    "id": "3a6eca22-aa81-4544-a975-dd9a22c36cd0",
+                    "citycode": "333",
+                    "name": "金华市",
+                    "pyf": "JinHuaShi",
+                    "pys": "JHS"
+                },
+                {
+                    "id": "432f3beb-a6b0-4e9a-a592-3e6554d58159",
+                    "citycode": "334",
+                    "name": "嘉兴市",
+                    "pyf": "JiaXingShi",
+                    "pys": "JXS"
+                },
+                {
+                    "id": "c35ae06c-1d90-442a-b038-f1503ee71b4f",
+                    "citycode": "33",
+                    "name": "嘉峪关市",
+                    "pyf": "JiaYuGuanShi",
+                    "pys": "JYGS"
+                },
+                {
+                    "id": "f0d52ca8-61d6-450f-8581-c8f1c6bbd69a",
+                    "citycode": "349",
+                    "name": "九江市",
+                    "pyf": "JiuJiangShi",
+                    "pys": "JJS"
+                },
+                {
+                    "id": "0c6a1db1-0028-418c-9c59-9aa205539ebe",
+                    "citycode": "34",
+                    "name": "金昌市",
+                    "pyf": "JinChangShi",
+                    "pys": "JCS"
+                },
+                {
+                    "id": "2af7d0fd-bfb4-45a0-94e7-349f0632b8cf",
+                    "citycode": "37",
+                    "name": "酒泉市",
+                    "pyf": "JiuQuanShi",
+                    "pys": "JQS"
+                },
+                {
+                    "id": "fecd0c9c-d82c-41c7-a9b0-166d497b99e7",
+                    "citycode": "42",
+                    "name": "佳木斯市",
+                    "pyf": "JiaMuSiShi",
+                    "pys": "JMSS"
+                },
+                {
+                    "id": "a25d3c1c-c264-4238-88e0-7bebf3f5d1ee",
+                    "citycode": "46",
+                    "name": "鸡西市",
+                    "pyf": "JiXiShi",
+                    "pys": "JXS"
+                },
+                {
+                    "id": "0d016477-5a43-428c-9dca-b0a3c132639e",
+                    "citycode": "55",
+                    "name": "吉林市",
+                    "pyf": "JiLinShi",
+                    "pys": "JLS"
+                }
+            ]
+        },
+        {
+            "AZ": "K",
+            "cities": [
+                {
+                    "id": "2d4244e3-3e3f-4502-990b-cd8dcf727078",
+                    "citycode": "104",
+                    "name": "昆明市",
+                    "pyf": "KunMingShi",
+                    "pys": "KMS"
+                },
+                {
+                    "id": "59a39b79-7cfc-4467-8eb5-dc871818eadb",
+                    "citycode": "210",
+                    "name": "开封市",
+                    "pyf": "KaiFengShi",
+                    "pys": "KFS"
+                },
+                {
+                    "id": "5602ed9d-8f43-4019-9723-76ff690cb9e9",
+                    "citycode": "83",
+                    "name": "喀什地区",
+                    "pyf": "KaShiDiQu",
+                    "pys": "KSDQ"
+                },
+                {
+                    "id": "e0d6c0e2-943d-41da-bfed-4c2a8f5ef4ab",
+                    "citycode": "84",
+                    "name": "克孜勒苏柯尔克孜自治州",
+                    "pyf": "KeZiLeSuKeErKeZiZiZhiZhou",
+                    "pys": "KZLSKEKZZZZ"
+                },
+                {
+                    "id": "1ba896c8-1df2-4bb4-b383-9aa8b8a8f52c",
+                    "citycode": "95",
+                    "name": "克拉玛依市",
+                    "pyf": "KeLaMaYiShi",
+                    "pys": "KLMYS"
+                }
+            ]
+        },
+        {
+            "AZ": "L",
+            "cities": [
+                {
+                    "id": "70a7d67f-be29-471a-8fa0-3e7814ab8120",
+                    "citycode": "331",
+                    "name": "泸州市",
+                    "pyf": "LuZhouShi",
+                    "pys": "LZS"
+                },
+                {
+                    "id": "a841cc08-d832-4230-9659-4220fde8dfa6",
+                    "citycode": "100",
+                    "name": "拉萨市",
+                    "pyf": "LaSaShi",
+                    "pys": "LSS"
+                },
+                {
+                    "id": "ca7bb04e-041f-4da9-91a6-d0b0a717dc3e",
+                    "citycode": "110",
+                    "name": "临沧市",
+                    "pyf": "LinCangShi",
+                    "pys": "LCS"
+                },
+                {
+                    "id": "23fc3d94-99c8-4733-88e0-f33b41da707b",
+                    "citycode": "114",
+                    "name": "丽江市",
+                    "pyf": "LiJiangShi",
+                    "pys": "LJS"
+                },
+                {
+                    "id": "ed48eacb-cb9b-4db7-ba11-a074a69231c9",
+                    "citycode": "124",
+                    "name": "莱芜市",
+                    "pyf": "LaiWuShi",
+                    "pys": "LWS"
+                },
+                {
+                    "id": "fa9fb113-2a3b-4f28-b70a-aad168622d0e",
+                    "citycode": "147",
+                    "name": "六盘水市",
+                    "pyf": "LiuPanShuiShi",
+                    "pys": "LPSS"
+                },
+                {
+                    "id": "85b853c2-c3fc-4d08-a4f1-f507fdd66b2e",
+                    "citycode": "153",
+                    "name": "洛阳市",
+                    "pyf": "LuoYangShi",
+                    "pys": "LYS"
+                },
+                {
+                    "id": "e5e11513-89f8-4dfe-925e-83ec41b9c0b3",
+                    "citycode": "182",
+                    "name": "临夏回族自治州",
+                    "pyf": "LinXiaHuiZuZiZhiZhou",
+                    "pys": "LXHZZZZ"
+                },
+                {
+                    "id": "c9f60ffe-853a-4148-acdb-c7d08f87ddd9",
+                    "citycode": "183",
+                    "name": "辽源市",
+                    "pyf": "LiaoYuanShi",
+                    "pys": "LYS"
+                },
+                {
+                    "id": "53ed9a05-1b08-402c-97e7-0e51aae4a252",
+                    "citycode": "191",
+                    "name": "廊坊市",
+                    "pyf": "LangFangShi",
+                    "pys": "LFS"
+                },
+                {
+                    "id": "e402aebf-56d8-4450-8f3d-7c60c7677b02",
+                    "citycode": "193",
+                    "name": "龙岩市",
+                    "pyf": "LongYanShi",
+                    "pys": "LYS"
+                },
+                {
+                    "id": "bf9c0fe6-60d8-43c8-8eff-871cb21f7e90",
+                    "citycode": "202",
+                    "name": "来宾市",
+                    "pyf": "LaiBinShi",
+                    "pys": "LBS"
+                },
+                {
+                    "id": "743e9937-7129-4364-be7b-fbe73a2ef548",
+                    "citycode": "221",
+                    "name": "娄底市",
+                    "pyf": "LouDiShi",
+                    "pys": "LDS"
+                },
+                {
+                    "id": "22489432-7e55-459d-af97-6f6a2ec286d0",
+                    "citycode": "234",
+                    "name": "临沂市",
+                    "pyf": "LinYiShi",
+                    "pys": "LYS"
+                },
+                {
+                    "id": "85580593-d705-4c56-b462-526b98315744",
+                    "citycode": "256",
+                    "name": "陇南市",
+                    "pyf": "LongNanShi",
+                    "pys": "LNS"
+                },
+                {
+                    "id": "7a828d91-0281-42d2-8db0-b5e051c2e9e2",
+                    "citycode": "292",
+                    "name": "丽水市",
+                    "pyf": "LiShuiShi",
+                    "pys": "LSS"
+                },
+                {
+                    "id": "e36ddf87-2015-4161-83e9-4d1c4fdc8169",
+                    "citycode": "298",
+                    "name": "六安市",
+                    "pyf": "LiuAnShi",
+                    "pys": "LAS"
+                },
+                {
+                    "id": "38c59ac9-9bd0-404c-a15d-6038ae6251bb",
+                    "citycode": "305",
+                    "name": "柳州市",
+                    "pyf": "LiuZhouShi",
+                    "pys": "LZS"
+                },
+                {
+                    "id": "9139b297-5b5d-4453-b7a4-6ced0c5468ee",
+                    "citycode": "327",
+                    "name": "吕梁市",
+                    "pyf": "LvLiangShi",
+                    "pys": "LLS"
+                },
+                {
+                    "id": "3da9a5b4-e93e-4a5d-8b7a-4b4a834fece6",
+                    "citycode": "344",
+                    "name": "漯河市",
+                    "pyf": "LuoHeShi",
+                    "pys": "LHS"
+                },
+                {
+                    "id": "0302b306-eecd-40ed-8025-869423160b65",
+                    "citycode": "347",
+                    "name": "连云港市",
+                    "pyf": "LianYunGangShi",
+                    "pys": "LYGS"
+                },
+                {
+                    "id": "0d9c6a1d-80c9-4b9d-9306-7175a65ab7b1",
+                    "citycode": "351",
+                    "name": "辽阳市",
+                    "pyf": "LiaoYangShi",
+                    "pys": "LYS"
+                },
+                {
+                    "id": "373cf08a-c9dc-4e6b-9245-eada877f611d",
+                    "citycode": "366",
+                    "name": "聊城市",
+                    "pyf": "LiaoChengShi",
+                    "pys": "LCS"
+                },
+                {
+                    "id": "096b7344-d3a8-458d-9d8b-b3941ec5e091",
+                    "citycode": "368",
+                    "name": "临汾市",
+                    "pyf": "LinFenShi",
+                    "pys": "LFS"
+                },
+                {
+                    "id": "4f231ed8-36b0-4fee-b288-a9fe92a3ca96",
+                    "citycode": "36",
+                    "name": "兰州市",
+                    "pyf": "LanZhouShi",
+                    "pys": "LZS"
+                },
+                {
+                    "id": "25ff6ca0-8359-4213-8c4d-a297ad43b6fb",
+                    "citycode": "79",
+                    "name": "乐山市",
+                    "pyf": "LeShanShi",
+                    "pys": "LSS"
+                },
+                {
+                    "id": "8a8229c7-e202-43f9-bb4d-5a7c119beacc",
+                    "citycode": "80",
+                    "name": "凉山彝族自治州",
+                    "pyf": "LiangShanYiZuZiZhiZhou",
+                    "pys": "LSYZZZZ"
+                },
+                {
+                    "id": "d1d56596-039e-41b5-8673-14e28a345b14",
+                    "citycode": "98",
+                    "name": "林芝地区",
+                    "pyf": "LinZhiDiQu",
+                    "pys": "LZDQ"
+                }
+            ]
+        },
+        {
+            "AZ": "M",
+            "cities": [
+                {
+                    "id": "acbda3f6-b88f-412f-8778-f01fc093e5af",
+                    "citycode": "139",
+                    "name": "茂名市",
+                    "pyf": "MaoMingShi",
+                    "pys": "MMS"
+                },
+                {
+                    "id": "2405ecc0-16fd-4407-825a-1fb04fa06215",
+                    "citycode": "141",
+                    "name": "梅州市",
+                    "pyf": "MeiZhouShi",
+                    "pys": "MZS"
+                },
+                {
+                    "id": "4c588731-8dd2-4c0f-a0f9-c05557897f98",
+                    "citycode": "240",
+                    "name": "绵阳市",
+                    "pyf": "MianYangShi",
+                    "pys": "MYS"
+                },
+                {
+                    "id": "c3a07ab6-1e2b-4c53-a6b2-9893552e1366",
+                    "citycode": "358",
+                    "name": "马鞍山市",
+                    "pyf": "MaAnShanShi",
+                    "pys": "MASS"
+                },
+                {
+                    "id": "38798cf4-746d-4cae-935f-63aad8a13ec7",
+                    "citycode": "49",
+                    "name": "牡丹江市",
+                    "pyf": "MuDanJiangShi",
+                    "pys": "MDJS"
+                },
+                {
+                    "id": "ee0d43ea-67cd-48b8-af2f-526751bd8ea5",
+                    "citycode": "77",
+                    "name": "眉山市",
+                    "pyf": "MeiShanShi",
+                    "pys": "MSS"
+                }
+            ]
+        },
+        {
+            "AZ": "N",
+            "cities": [
+                {
+                    "id": "6f0331ec-406a-42d5-94c0-ba678518220b",
+                    "citycode": "101",
+                    "name": "那曲地区",
+                    "pyf": "NaQuDiQu",
+                    "pys": "NQDQ"
+                },
+                {
+                    "id": "b5cf5c83-449c-4ba3-95ba-f4ce4e66c3d3",
+                    "citycode": "113",
+                    "name": "怒江傈僳族自治州",
+                    "pyf": "NuJiangLiSuZuZiZhiZhou",
+                    "pys": "NJLSZZZZ"
+                },
+                {
+                    "id": "fe7e64a4-6194-4dd4-9f01-fc9931ac5c30",
+                    "citycode": "133",
+                    "name": "南平市",
+                    "pyf": "NanPingShi",
+                    "pys": "NPS"
+                },
+                {
+                    "id": "3d1b9b3d-5274-4b49-946d-732364234c8a",
+                    "citycode": "161",
+                    "name": "南通市",
+                    "pyf": "NanTongShi",
+                    "pys": "NTS"
+                },
+                {
+                    "id": "ca952d42-a87f-4efb-ab00-437f9ed6eeb9",
+                    "citycode": "163",
+                    "name": "南昌市",
+                    "pyf": "NanChangShi",
+                    "pys": "NCS"
+                },
+                {
+                    "id": "0aa249cd-d0c4-4e6f-99b6-89ac0bc4b2c7",
+                    "citycode": "180",
+                    "name": "宁波市",
+                    "pyf": "NingBoShi",
+                    "pys": "NBS"
+                },
+                {
+                    "id": "3b7690ff-667a-42c7-8bf4-07017d76f901",
+                    "citycode": "192",
+                    "name": "宁德市",
+                    "pyf": "NingDeShi",
+                    "pys": "NDS"
+                },
+                {
+                    "id": "5d72e524-65de-4e21-bebc-8129d5535141",
+                    "citycode": "248",
+                    "name": "内江市",
+                    "pyf": "NeiJiangShi",
+                    "pys": "NJS"
+                },
+                {
+                    "id": "33bcad42-11bf-474e-a357-8878784e29e2",
+                    "citycode": "261",
+                    "name": "南宁市",
+                    "pyf": "NanNingShi",
+                    "pys": "NNS"
+                },
+                {
+                    "id": "e7aca3a6-b7f8-49a7-a847-8808caadb77f",
+                    "citycode": "291",
+                    "name": "南充市",
+                    "pyf": "NanChongShi",
+                    "pys": "NCS"
+                },
+                {
+                    "id": "cd7e01a9-b6c6-46f2-8056-5404e0d4d1b6",
+                    "citycode": "309",
+                    "name": "南阳市",
+                    "pyf": "NanYangShi",
+                    "pys": "NYS"
+                },
+                {
+                    "id": "9c7b7c69-6956-4eaa-a60b-3641fa7baafd",
+                    "citycode": "315",
+                    "name": "南京市",
+                    "pyf": "NanJingShi",
+                    "pys": "NJS"
+                }
+            ]
+        },
+        {
+            "AZ": "P",
+            "cities": [
+                {
+                    "id": "72126835-7d57-4afe-93c2-51d6a0ae5122",
+                    "citycode": "108",
+                    "name": "普洱市",
+                    "pyf": "PuErShi",
+                    "pys": "PES"
+                },
+                {
+                    "id": "3dba8780-5f01-46e8-9c56-33c751b8f21e",
+                    "citycode": "195",
+                    "name": "莆田市",
+                    "pyf": "PuTianShi",
+                    "pys": "PTS"
+                },
+                {
+                    "id": "c88eadd9-5cd8-49e3-bfef-89af21aaef81",
+                    "citycode": "209",
+                    "name": "濮阳市",
+                    "pyf": "PuYangShi",
+                    "pys": "PYS"
+                },
+                {
+                    "id": "ac1e5595-7bcc-449d-8c66-62659e5f5d5c",
+                    "citycode": "213",
+                    "name": "平顶山市",
+                    "pyf": "PingDingShanShi",
+                    "pys": "PDSS"
+                },
+                {
+                    "id": "171d9210-6f1e-4bf1-8c75-574d3139e0e9",
+                    "citycode": "228",
+                    "name": "盘锦市",
+                    "pyf": "PanJinShi",
+                    "pys": "PJS"
+                },
+                {
+                    "id": "2825b6bd-34bd-4d19-ba6f-11de45e58259",
+                    "citycode": "350",
+                    "name": "萍乡市",
+                    "pyf": "PingXiangShi",
+                    "pys": "PXS"
+                },
+                {
+                    "id": "f19d7978-4a3e-41da-b8a9-6cad1dd966e3",
+                    "citycode": "359",
+                    "name": "平凉市",
+                    "pyf": "PingLiangShi",
+                    "pys": "PLS"
+                },
+                {
+                    "id": "2620be1f-026e-4b87-8605-e398f1ccdc04",
+                    "citycode": "81",
+                    "name": "攀枝花市",
+                    "pyf": "PanZhiHuaShi",
+                    "pys": "PZHS"
+                }
+            ]
+        },
+        {
+            "AZ": "Q",
+            "cities": [
+                {
+                    "id": "ebc8a910-b897-486f-88b1-3f8784655513",
+                    "citycode": "134",
+                    "name": "泉州市",
+                    "pyf": "QuanZhouShi",
+                    "pys": "QZS"
+                },
+                {
+                    "id": "8f8720ff-6021-4494-8f28-64b68dd39b7a",
+                    "citycode": "135",
+                    "name": "庆阳市",
+                    "pyf": "QingYangShi",
+                    "pys": "QYS"
+                },
+                {
+                    "id": "e7427f24-da49-4363-9265-8fdbefeb8785",
+                    "citycode": "145",
+                    "name": "钦州市",
+                    "pyf": "QinZhouShi",
+                    "pys": "QZS"
+                },
+                {
+                    "id": "b7f0c22a-22e8-43e9-9a27-2cb7f0ca150a",
+                    "citycode": "148",
+                    "name": "秦皇岛市",
+                    "pyf": "QinHuangDaoShi",
+                    "pys": "QHDS"
+                },
+                {
+                    "id": "55e066eb-4954-42c6-82ae-c92cc892e1b3",
+                    "citycode": "197",
+                    "name": "清远市",
+                    "pyf": "QingYuanShi",
+                    "pys": "QYS"
+                },
+                {
+                    "id": "d5d3967d-a58a-46ff-a270-fba76af7cb1a",
+                    "citycode": "236",
+                    "name": "青岛市",
+                    "pyf": "QingDaoShi",
+                    "pys": "QDS"
+                },
+                {
+                    "id": "81acd5bb-debe-44c2-9679-e9723b005673",
+                    "citycode": "243",
+                    "name": "衢州市",
+                    "pyf": "QuZhouShi",
+                    "pys": "QZS"
+                },
+                {
+                    "id": "eccb1949-f3e1-404c-8b81-eabb83836776",
+                    "citycode": "249",
+                    "name": "曲靖市",
+                    "pyf": "QuJingShi",
+                    "pys": "QJS"
+                },
+                {
+                    "id": "3a1ce9c1-dfcf-4dca-8ee8-6ac98f589e69",
+                    "citycode": "306",
+                    "name": "黔南布依族苗族自治州",
+                    "pyf": "QianNanBuYiZuMiaoZuZiZhiZhou",
+                    "pys": "QNBYZMZZZZ"
+                },
+                {
+                    "id": "ae58b716-693d-46f8-9979-7f832668d1a2",
+                    "citycode": "342",
+                    "name": "黔东南苗族侗族自治州",
+                    "pyf": "QianDongNanMiaoZuDongZuZiZhiZhou",
+                    "pys": "QDNMZDZZZZ"
+                },
+                {
+                    "id": "9c5a77fe-b7b0-42db-9e6a-d256e6f6a5fa",
+                    "citycode": "343",
+                    "name": "黔西南布依族苗族自治州",
+                    "pyf": "QianXiNanBuYiZuMiaoZuZiZhiZhou",
+                    "pys": "QXNBYZMZZZZ"
+                },
+                {
+                    "id": "8bececf1-1a13-4b28-ad9f-acac4e17b95c",
+                    "citycode": "41",
+                    "name": "齐齐哈尔市",
+                    "pyf": "QiQiHaErShi",
+                    "pys": "QQHES"
+                },
+                {
+                    "id": "538077c7-51e4-4e97-ab3c-6961f2e29ddd",
+                    "citycode": "47",
+                    "name": "七台河市",
+                    "pyf": "QiTaiHeShi",
+                    "pys": "QTHS"
+                }
+            ]
+        },
+        {
+            "AZ": "R",
+            "cities": [
+                {
+                    "id": "83d554d5-d6a0-44a4-90ed-206def9d9228",
+                    "citycode": "102",
+                    "name": "日喀则地区",
+                    "pyf": "RiKaZeDiQu",
+                    "pys": "RKZDQ"
+                },
+                {
+                    "id": "72112ef1-945e-416d-a101-962970c9f4ae",
+                    "citycode": "173",
+                    "name": "日照市",
+                    "pyf": "RiZhaoShi",
+                    "pys": "RZS"
+                }
+            ]
+        },
+        {
+            "AZ": "S",
+            "cities": [
+                {
+                    "id": "64317812-6e51-4ade-b86f-93549a5baf30",
+                    "citycode": "121",
+                    "name": "三亚市",
+                    "pyf": "SanYaShi",
+                    "pys": "SYS"
+                },
+                {
+                    "id": "4afd1006-80c3-4b6b-8c76-3e693eab0398",
+                    "citycode": "137",
+                    "name": "韶关市",
+                    "pyf": "ShaoGuanShi",
+                    "pys": "SGS"
+                },
+                {
+                    "id": "ea3b5820-dee3-4b08-bc04-e4ae7978fa82",
+                    "citycode": "150",
+                    "name": "石家庄市",
+                    "pyf": "ShiJiaZhuangShi",
+                    "pys": "SJZS"
+                },
+                {
+                    "id": "7c4eefaa-08f6-4c53-beb4-0651db35d8cd",
+                    "citycode": "154",
+                    "name": "商丘市",
+                    "pyf": "ShangQiuShi",
+                    "pys": "SQS"
+                },
+                {
+                    "id": "7a012f48-4f2e-46c7-be37-d6bfc602691a",
+                    "citycode": "212",
+                    "name": "三门峡市",
+                    "pyf": "SanMenXiaShi",
+                    "pys": "SMXS"
+                },
+                {
+                    "id": "037727fd-10d3-4978-8ddf-fd1a3f755e69",
+                    "citycode": "216",
+                    "name": "十堰市",
+                    "pyf": "ShiYanShi",
+                    "pys": "SYS"
+                },
+                {
+                    "id": "9b49ee4f-9ed0-4c54-9849-b274c64b4b04",
+                    "citycode": "224",
+                    "name": "苏州市",
+                    "pyf": "SuZhouShi",
+                    "pys": "SZS"
+                },
+                {
+                    "id": "b027a53d-4237-4c4d-9a0c-ee90bbbd1ef9",
+                    "citycode": "237",
+                    "name": "朔州市",
+                    "pyf": "ShuoZhouShi",
+                    "pys": "SZS"
+                },
+                {
+                    "id": "1bb09cf1-3028-4ee0-aca0-582cee58b74b",
+                    "citycode": "254",
+                    "name": "三明市",
+                    "pyf": "SanMingShi",
+                    "pys": "SMS"
+                },
+                {
+                    "id": "39690e36-09d6-49f8-b822-c0e8cf06f897",
+                    "citycode": "273",
+                    "name": "邵阳市",
+                    "pyf": "ShaoYangShi",
+                    "pys": "SYS"
+                },
+                {
+                    "id": "ff7d862d-08bc-41f3-b362-3a9bc87f72ea",
+                    "citycode": "277",
+                    "name": "宿迁市",
+                    "pyf": "SuQianShi",
+                    "pys": "SQS"
+                },
+                {
+                    "id": "1b6f7e47-306a-4a07-9938-c1f0a282f390",
+                    "citycode": "285",
+                    "name": "商洛市",
+                    "pyf": "ShangLuoShi",
+                    "pys": "SLS"
+                },
+                {
+                    "id": "d72b83a0-b2fb-4edf-9459-b9dd7d941794",
+                    "citycode": "289",
+                    "name": "上海市",
+                    "pyf": "ShangHaiShi",
+                    "pys": "SHS"
+                },
+                {
+                    "id": "c171fd24-fade-4245-8ad2-d153fe414a6c",
+                    "citycode": "293",
+                    "name": "绍兴市",
+                    "pyf": "ShaoXingShi",
+                    "pys": "SXS"
+                },
+                {
+                    "id": "e688846c-3ed1-4377-a96b-7a5ca9929e28",
+                    "citycode": "303",
+                    "name": "汕头市",
+                    "pyf": "ShanTouShi",
+                    "pys": "STS"
+                },
+                {
+                    "id": "77ec08aa-ddb6-474e-8f2e-1d17b0218e26",
+                    "citycode": "330",
+                    "name": "遂宁市",
+                    "pyf": "SuiNingShi",
+                    "pys": "SNS"
+                },
+                {
+                    "id": "28e33815-6ef6-4603-aed0-503eb54b4236",
+                    "citycode": "335",
+                    "name": "石嘴山市",
+                    "pyf": "ShiZuiShanShi",
+                    "pys": "SZSS"
+                },
+                {
+                    "id": "94152356-780c-4f1b-992a-77d08b9a563d",
+                    "citycode": "339",
+                    "name": "汕尾市",
+                    "pyf": "ShanWeiShi",
+                    "pys": "SWS"
+                },
+                {
+                    "id": "77876c39-7582-4b1c-a557-5bafb8bc435f",
+                    "citycode": "340",
+                    "name": "深圳市",
+                    "pyf": "ShenZhenShi",
+                    "pys": "SZS"
+                },
+                {
+                    "id": "50058973-0e14-4727-b360-a05b77af15e4",
+                    "citycode": "364",
+                    "name": "上饶市",
+                    "pyf": "ShangRaoShi",
+                    "pys": "SRS"
+                },
+                {
+                    "id": "780cd4bc-608d-48c2-883b-20f9d3c606c5",
+                    "citycode": "370",
+                    "name": "宿州市",
+                    "pyf": "SuZhouShi",
+                    "pys": "SZS"
+                },
+                {
+                    "id": "24dadefb-c684-4d35-9d5e-efd29f7b0cb7",
+                    "citycode": "371",
+                    "name": "随州市",
+                    "pyf": "SuiZhouShi",
+                    "pys": "SZS"
+                },
+                {
+                    "id": "d14ee37c-7312-4c28-8a41-ba3d0fc64b91",
+                    "citycode": "44",
+                    "name": "绥化市",
+                    "pyf": "SuiHuaShi",
+                    "pys": "SHS"
+                },
+                {
+                    "id": "2cd1a0cd-5b1d-414a-9655-8af3b2c934e0",
+                    "citycode": "45",
+                    "name": "双鸭山市",
+                    "pyf": "ShuangYaShanShi",
+                    "pys": "SYSS"
+                },
+                {
+                    "id": "198c9c16-d2ac-429d-89ea-32d39630d62e",
+                    "citycode": "52",
+                    "name": "松原市",
+                    "pyf": "SongYuanShi",
+                    "pys": "SYS"
+                },
+                {
+                    "id": "7e649c59-fa2c-4bad-a473-274d561eb9c9",
+                    "citycode": "56",
+                    "name": "四平市",
+                    "pyf": "SiPingShi",
+                    "pys": "SPS"
+                },
+                {
+                    "id": "08157839-d6db-4833-b68f-38be0fb7f959",
+                    "citycode": "58",
+                    "name": "沈阳市",
+                    "pyf": "ShenYangShi",
+                    "pys": "SYS"
+                },
+                {
+                    "id": "c7fb3946-7033-471c-940c-8f1bfd68e20f",
+                    "citycode": "97",
+                    "name": "山南地区",
+                    "pyf": "ShanNanDiQu",
+                    "pys": "SNDQ"
+                }
+            ]
+        },
+        {
+            "AZ": "T",
+            "cities": [
+                {
+                    "id": "9ef858c1-aaf1-40ad-97c0-b8c6bd67b38b",
+                    "citycode": "165",
+                    "name": "通化市",
+                    "pyf": "TongHuaShi",
+                    "pys": "THS"
+                },
+                {
+                    "id": "10b1f541-5d9e-49ce-bb38-adf7a4f1b953",
+                    "citycode": "176",
+                    "name": "太原市",
+                    "pyf": "TaiYuanShi",
+                    "pys": "TYS"
+                },
+                {
+                    "id": "7151de94-293b-45f3-9b97-b7fb15c4c10a",
+                    "citycode": "196",
+                    "name": "天水市",
+                    "pyf": "TianShuiShi",
+                    "pys": "TSS"
+                },
+                {
+                    "id": "30566b92-a2bb-443b-b388-5c8fe7b9f152",
+                    "citycode": "205",
+                    "name": "铜仁地区",
+                    "pyf": "TongRenDiQu",
+                    "pys": "TRDQ"
+                },
+                {
+                    "id": "6945aae5-0391-4af2-aac2-616c185c346a",
+                    "citycode": "232",
+                    "name": "铜川市",
+                    "pyf": "TongChuanShi",
+                    "pys": "TCS"
+                },
+                {
+                    "id": "9a3f42b2-7845-4bc3-a3f4-3064e347a612",
+                    "citycode": "244",
+                    "name": "台州市",
+                    "pyf": "TaiZhouShi",
+                    "pys": "TZS"
+                },
+                {
+                    "id": "ad053849-4af6-483b-8ba1-31bf7894bb8b",
+                    "citycode": "265",
+                    "name": "唐山市",
+                    "pyf": "TangShanShi",
+                    "pys": "TSS"
+                },
+                {
+                    "id": "775593b3-84f0-42c5-9a45-a249e88c2dc7",
+                    "citycode": "376",
+                    "name": "泰州市",
+                    "pyf": "TaiZhouShi",
+                    "pys": "TZS"
+                },
+                {
+                    "id": "e72d872f-c64f-415c-8a26-073277a79cb7",
+                    "citycode": "325",
+                    "name": "泰安市",
+                    "pyf": "TaiAnShi",
+                    "pys": "TAS"
+                },
+                {
+                    "id": "28fa4aac-5d03-4b81-b7eb-f29d6212f6cc",
+                    "citycode": "332",
+                    "name": "天津市",
+                    "pyf": "TianJingShi",
+                    "pys": "TJS"
+                },
+                {
+                    "id": "8f31505a-c2f1-4db2-be2e-6acc6a9371e6",
+                    "citycode": "337",
+                    "name": "铜陵市",
+                    "pyf": "TongLingShi",
+                    "pys": "TLS"
+                },
+                {
+                    "id": "a66a951a-3c5f-4db3-8a5c-afe8c332d2d2",
+                    "citycode": "60",
+                    "name": "铁岭市",
+                    "pyf": "TieLingShi",
+                    "pys": "TLS"
+                },
+                {
+                    "id": "0711197c-62ba-4df2-9c65-0d38309fd6d8",
+                    "citycode": "64",
+                    "name": "通辽市",
+                    "pyf": "TongLiaoShi",
+                    "pys": "TLS"
+                },
+                {
+                    "id": "2833d614-8fe8-4665-bcb5-40303ebd3827",
+                    "citycode": "89",
+                    "name": "吐鲁番地区",
+                    "pyf": "TuLuFanDiQu",
+                    "pys": "TLFDQ"
+                },
+                {
+                    "id": "c9f1d8ee-c462-4203-bdf4-f2baa97851f7",
+                    "citycode": "94",
+                    "name": "塔城地区",
+                    "pyf": "TaChengDiQu",
+                    "pys": "TCDQ"
+                }
+            ]
+        },
+        {
+            "AZ": "W",
+            "cities": [
+                {
+                    "id": "4e276b9c-c41d-4254-9a9d-31b7b60fa56b",
+                    "citycode": "118",
+                    "name": "武威市",
+                    "pyf": "WuLingShi",
+                    "pys": "WLS"
+                },
+                {
+                    "id": "0d648f4f-586a-460c-b87a-dd0692a3bb3e",
+                    "citycode": "123",
+                    "name": "乌海市",
+                    "pyf": "WuHaiShi",
+                    "pys": "WHS"
+                },
+                {
+                    "id": "bda55fb5-2f8f-44ec-a98b-2d084083dbed",
+                    "citycode": "129",
+                    "name": "芜湖市",
+                    "pyf": "WuHuShi",
+                    "pys": "WHS"
+                },
+                {
+                    "id": "ca3d8c2f-9236-44d4-ad41-38eaf9fa72ef",
+                    "citycode": "168",
+                    "name": "乌兰察布市",
+                    "pyf": "WuLanChaBuBu",
+                    "pys": "WLCBB"
+                },
+                {
+                    "id": "81ad84b6-432e-4993-9f96-14d88a945303",
+                    "citycode": "170",
+                    "name": "渭南市",
+                    "pyf": "WeiNanShi",
+                    "pys": "WNS"
+                },
+                {
+                    "id": "5a72457b-75c8-4649-9bbc-db502682ffff",
+                    "citycode": "175",
+                    "name": "威海市",
+                    "pyf": "WeiHaiShi",
+                    "pys": "WHS"
+                },
+                {
+                    "id": "456b046e-0592-41e4-acc4-d4b02731416b",
+                    "citycode": "177",
+                    "name": "文山壮族苗族自治州",
+                    "pyf": "WenShanZhuangZuMiaoZuZiZhiZhou",
+                    "pys": "WSZZMZZZZ"
+                },
+                {
+                    "id": "63dc5a71-a2f5-4be9-82fc-c9cd56e20f76",
+                    "citycode": "178",
+                    "name": "温州市",
+                    "pyf": "WenZhouShi",
+                    "pys": "WZS"
+                },
+                {
+                    "id": "afcceee8-53e9-40e2-9f0c-a06dc944e211",
+                    "citycode": "218",
+                    "name": "武汉市",
+                    "pyf": "WuHanShi",
+                    "pys": "WHS"
+                },
+                {
+                    "id": "f94871ac-0566-4459-8573-669920e55333",
+                    "citycode": "287",
+                    "name": "潍坊市",
+                    "pyf": "WeiFangShi",
+                    "pys": "WFS"
+                },
+                {
+                    "id": "76af6a07-8eaf-4b28-bb9c-c65825161f9c",
+                    "citycode": "304",
+                    "name": "梧州市",
+                    "pyf": "WuZhouShi",
+                    "pys": "WZS"
+                },
+                {
+                    "id": "8c28a68d-02ee-421b-8713-99a91af8708f",
+                    "citycode": "317",
+                    "name": "无锡市",
+                    "pyf": "WuXiShi",
+                    "pys": "WXS"
+                },
+                {
+                    "id": "8920d1da-53dd-4b8d-82d4-144b99cae2fb",
+                    "citycode": "322",
+                    "name": "吴忠市",
+                    "pyf": "WuZhongShi",
+                    "pys": "WZS"
+                },
+                {
+                    "id": "c0332903-b74f-4c45-83ef-09154fb2c388",
+                    "citycode": "92",
+                    "name": "乌鲁木齐市",
+                    "pyf": "WuLuMuQiShi",
+                    "pys": "WLMQS"
+                }
+            ]
+        },
+        {
+            "AZ": "X",
+            "cities": [
+                {
+                    "id": "e3ad9ef9-0c35-46b8-915a-b2cb27070cfd",
+                    "citycode": "109",
+                    "name": "西双版纳傣族自治州",
+                    "pyf": "XiShuangBanNaDaiZuZiZhiZhou",
+                    "pys": "XSBNDZZZZ"
+                },
+                {
+                    "id": "6ca1abb6-54ca-41ac-ae31-699e72f8198b",
+                    "citycode": "152",
+                    "name": "新乡市",
+                    "pyf": "XinXiangShi",
+                    "pys": "XXS"
+                },
+                {
+                    "id": "33b88a0d-69dc-4932-88e0-b364c927aede",
+                    "citycode": "155",
+                    "name": "许昌市",
+                    "pyf": "XuChangShi",
+                    "pys": "XCS"
+                },
+                {
+                    "id": "35140828-c84e-43ab-b51a-38b9576c18a5",
+                    "citycode": "156",
+                    "name": "襄樊市",
+                    "pyf": "XiangFanShi",
+                    "pys": "XFS"
+                },
+                {
+                    "id": "228ea6f8-81b5-4eee-81f6-a3b7c04c3ab6",
+                    "citycode": "164",
+                    "name": "新余市",
+                    "pyf": "XinYuShi",
+                    "pys": "XYS"
+                },
+                {
+                    "id": "e65c6b85-3f1d-483e-ab90-e141f7387bdd",
+                    "citycode": "190",
+                    "name": "宣城市",
+                    "pyf": "XuanChengShi",
+                    "pys": "XCS"
+                },
+                {
+                    "id": "76471222-b8de-4f2a-aad4-173f70ad22e2",
+                    "citycode": "194",
+                    "name": "厦门市",
+                    "pyf": "XiaMenShi",
+                    "pys": "XMS"
+                },
+                {
+                    "id": "5c01834f-24b0-4e0e-9cdc-dc93c0b0048d",
+                    "citycode": "214",
+                    "name": "信阳市",
+                    "pyf": "XinYangShi",
+                    "pys": "XYS"
+                },
+                {
+                    "id": "15886eb1-47a6-4944-9a02-8d5e47247725",
+                    "citycode": "233",
+                    "name": "西安市",
+                    "pyf": "XiAnShi",
+                    "pys": "XAS"
+                },
+                {
+                    "id": "5456ee34-4602-41f3-a317-76514c062eab",
+                    "citycode": "266",
+                    "name": "邢台市",
+                    "pyf": "XingTaiShi",
+                    "pys": "XTS"
+                },
+                {
+                    "id": "531ab7dd-f528-4ba4-a86c-c1832dc390d9",
+                    "citycode": "274",
+                    "name": "湘西土家族苗族自治州",
+                    "pyf": "XiangXiTuJiaZuMiaoZuZiZhiZhou",
+                    "pys": "XXTJZMZZZZ"
+                },
+                {
+                    "id": "8027fec1-d2bb-4e19-8819-f3d33268d73c",
+                    "citycode": "2912",
+                    "name": "香港特别行政区",
+                    "pyf": "XiangGangTeBieXingZhengQu",
+                    "pys": "XGTBXZQ"
+                },
+                {
+                    "id": "d525e02f-548a-479a-8f2c-079f19e766cd",
+                    "citycode": "310",
+                    "name": "孝感市",
+                    "pyf": "XiaoGanShi",
+                    "pys": "XGS"
+                },
+                {
+                    "id": "0aac8060-b285-4162-b6a4-56b759d296b9",
+                    "citycode": "313",
+                    "name": "湘潭市",
+                    "pyf": "XiangTanShi",
+                    "pys": "XTS"
+                },
+                {
+                    "id": "c679d5d2-d5c1-4522-bb84-353f548a4ba9",
+                    "citycode": "316",
+                    "name": "徐州市",
+                    "pyf": "XuZhouShi",
+                    "pys": "XZS"
+                },
+                {
+                    "id": "fb748ffa-bd08-439e-9d9f-31ace7be0875",
+                    "citycode": "323",
+                    "name": "咸阳市",
+                    "pyf": "XianYangShi",
+                    "pys": "XYS"
+                },
+                {
+                    "id": "4a9e3ff3-1e97-43f2-bcf9-4f7329aa73e6",
+                    "citycode": "362",
+                    "name": "咸宁市",
+                    "pyf": "XianNingShi",
+                    "pys": "XNS"
+                },
+                {
+                    "id": "96d7e9f7-1d3d-4a26-86e4-d97ab75be036",
+                    "citycode": "367",
+                    "name": "忻州市",
+                    "pyf": "XinZhouShi",
+                    "pys": "XZS"
+                },
+                {
+                    "id": "74984fdf-6675-436a-b68b-cf4726d0b4ef",
+                    "citycode": "62",
+                    "name": "兴安盟",
+                    "pyf": "XingAnMeng",
+                    "pys": "XAM"
+                },
+                {
+                    "id": "998aa714-6e90-482c-ae0c-1cd1d3e43c7e",
+                    "citycode": "63",
+                    "name": "锡林郭勒盟",
+                    "pyf": "XiLinGuoLeMeng",
+                    "pys": "XLGLM"
+                },
+                {
+                    "id": "3a9de36b-3909-4238-9d3d-9424989ffd67",
+                    "citycode": "66",
+                    "name": "西宁市",
+                    "pyf": "XiNingShi",
+                    "pys": "XNS"
+                },
+                {
+                    "id": "34bee466-2096-4de9-bfd6-f2406ea70d52",
+                    "citycode": "87",
+                    "name": "新疆直辖县级行政单位",
+                    "pyf": "XinJiangZhiXiaXianJiXingZhengDanWei",
+                    "pys": "XJZXXJXZDW"
+                },
+                {
+                    "id": "2abf93e8-5172-435e-a2e6-c5235c307503",
+                    "citycode": "87",
+                    "name": "新疆维吾尔自治区直辖县级行政单位",
+                    "pyf": "XinJiangWeiWuErZiZhiQuZhiXiaXianJiXingZhengDanWei",
+                    "pys": "XJWWEZZZZXXJXZDW"
+                }
+            ]
+        },
+        {
+            "AZ": "Y",
+            "cities": [
+                {
+                    "id": "b4249e69-b1df-4438-8dee-bdcb09b92ed4",
+                    "citycode": "106",
+                    "name": "玉溪市",
+                    "pyf": "YuXiShi",
+                    "pys": "YXS"
+                },
+                {
+                    "id": "ddb4cf9c-6890-491b-853d-045233478dd8",
+                    "citycode": "186",
+                    "name": "宜宾市",
+                    "pyf": "YiBinShi",
+                    "pys": "YBS"
+                },
+                {
+                    "id": "339194a1-f87d-44ac-a2d5-b38cad902f3c",
+                    "citycode": "199",
+                    "name": "阳江市",
+                    "pyf": "YangJiangShi",
+                    "pys": "YJS"
+                },
+                {
+                    "id": "8652c991-e67a-4a0d-9919-a9cedfa9b5f7",
+                    "citycode": "220",
+                    "name": "岳阳市",
+                    "pyf": "YueYangShi",
+                    "pys": "YYS"
+                },
+                {
+                    "id": "162b747f-9082-4c83-a832-d6be49bc801b",
+                    "citycode": "223",
+                    "name": "盐城市",
+                    "pyf": "YanChengShi",
+                    "pys": "YCS"
+                },
+                {
+                    "id": "dc18e1cc-229f-42da-90df-e923ffbc05ca",
+                    "citycode": "231",
+                    "name": "榆林市",
+                    "pyf": "YuLinShi",
+                    "pys": "YLS"
+                },
+                {
+                    "id": "86842779-6e61-4052-9d6e-59f1cdeaa997",
+                    "citycode": "258",
+                    "name": "云浮市",
+                    "pyf": "YunFuShi",
+                    "pys": "YFS"
+                },
+                {
+                    "id": "91198a4b-9745-4220-ab58-8a6b68a8ddea",
+                    "citycode": "270",
+                    "name": "宜昌市",
+                    "pyf": "YiChangShi",
+                    "pys": "YCS"
+                },
+                {
+                    "id": "0ab64fd1-09a4-4d0f-885e-5b879a62a228",
+                    "citycode": "272",
+                    "name": "益阳市",
+                    "pyf": "YiYangShi",
+                    "pys": "YYS"
+                },
+                {
+                    "id": "e9a0e565-e048-4553-b36b-71105d767a32",
+                    "citycode": "278",
+                    "name": "宜春市",
+                    "pyf": "YiChunShi",
+                    "pys": "YCS"
+                },
+                {
+                    "id": "bdeacecd-c119-4cfe-9973-0d9b1cd52569",
+                    "citycode": "279",
+                    "name": "鹰潭市",
+                    "pyf": "YingTanShi",
+                    "pys": "YTS"
+                },
+                {
+                    "id": "a6ace4c9-79a9-42d7-985c-b2ee7d81bfd0",
+                    "citycode": "281",
+                    "name": "营口市",
+                    "pyf": "YingKouShi",
+                    "pys": "YKS"
+                },
+                {
+                    "id": "3f36f89c-45d2-4a7d-8c34-27ab8246f84a",
+                    "citycode": "284",
+                    "name": "延安市",
+                    "pyf": "YanAnShi",
+                    "pys": "YAS"
+                },
+                {
+                    "id": "c4b87c9a-be78-4798-9d56-20351fc2938a",
+                    "citycode": "314",
+                    "name": "永州市",
+                    "pyf": "YongZhouShi",
+                    "pys": "YZS"
+                },
+                {
+                    "id": "279475d0-876e-4f87-8ef0-d047497a5bb5",
+                    "citycode": "326",
+                    "name": "烟台市",
+                    "pyf": "YanTaiShi",
+                    "pys": "YTS"
+                },
+                {
+                    "id": "3cf9fcbc-6a49-4bfa-a95b-522f48bf81de",
+                    "citycode": "328",
+                    "name": "运城市",
+                    "pyf": "YunChengShi",
+                    "pys": "YCS"
+                },
+                {
+                    "id": "c64eea4f-7535-4275-8587-02122b3c5df7",
+                    "citycode": "346",
+                    "name": "扬州市",
+                    "pyf": "YangZhouShi",
+                    "pys": "YZS"
+                },
+                {
+                    "id": "87d9eb7c-9155-4020-852c-99439600712c",
+                    "citycode": "357",
+                    "name": "阳泉市",
+                    "pyf": "YangQuanShi",
+                    "pys": "YQS"
+                },
+                {
+                    "id": "838c3c25-387d-4cc3-afc2-8562c00450ae",
+                    "citycode": "360",
+                    "name": "银川市",
+                    "pyf": "YinChuanShi",
+                    "pys": "YCS"
+                },
+                {
+                    "id": "2516c927-d2e8-480c-999d-06fb8a3531a4",
+                    "citycode": "361",
+                    "name": "玉林市",
+                    "pyf": "YuLinShi",
+                    "pys": "YLS"
+                },
+                {
+                    "id": "6c9bb58d-caef-4bc7-814b-50bd731ef2e4",
+                    "citycode": "40",
+                    "name": "伊春市",
+                    "pyf": "YiChunShi",
+                    "pys": "YCS"
+                },
+                {
+                    "id": "d228fb2c-0cc0-496d-9652-fdccba4c34e4",
+                    "citycode": "54",
+                    "name": "延边朝鲜族自治州",
+                    "pyf": "YanBianChaoXianZuZiZhiZhou",
+                    "pys": "YBCXZZZZ"
+                },
+                {
+                    "id": "62e5c9f9-3752-47f5-be72-2452111f1aa7",
+                    "citycode": "71",
+                    "name": "玉树藏族自治州",
+                    "pyf": "YuShuZangZuZiZhiZhou",
+                    "pys": "YSZZZZZ"
+                },
+                {
+                    "id": "4a290328-ad42-41c8-86b2-080bea6c261d",
+                    "citycode": "76",
+                    "name": "雅安市",
+                    "pyf": "YaAnShi",
+                    "pys": "YAS"
+                },
+                {
+                    "id": "3122da5a-635d-4fac-97c6-b613baa674ad",
+                    "citycode": "90",
+                    "name": "伊犁哈萨克自治州",
+                    "pyf": "YiLiHaKeZiZhiZhou",
+                    "pys": "YLHKZZZ"
+                }
+            ]
+        },
+        {
+            "AZ": "Z",
+            "cities": [
+                {
+                    "id": "1d2c8d06-2aae-4477-964a-61f419607d1d",
+                    "citycode": "119",
+                    "name": "张掖市",
+                    "pyf": "ZhangYeShi",
+                    "pys": "ZYS"
+                },
+                {
+                    "id": "60161d78-212a-4621-b22a-e23b269e6365",
+                    "citycode": "140",
+                    "name": "珠海市",
+                    "pyf": "ZhuHaiShi",
+                    "pys": "ZHS"
+                },
+                {
+                    "id": "1f752fa9-34a6-4e30-94f8-de58602edf1f",
+                    "citycode": "160",
+                    "name": "镇江市",
+                    "pyf": "ZhenJiangShi",
+                    "pys": "ZJS"
+                },
+                {
+                    "id": "88208253-d48d-4df0-8e67-a84c0bb7d6d7",
+                    "citycode": "172",
+                    "name": "枣庄市",
+                    "pyf": "ZaoZhuangShi",
+                    "pys": "ZZS"
+                },
+                {
+                    "id": "d87ff1d9-18d1-4309-ba11-be36bd86b318",
+                    "citycode": "181",
+                    "name": "中卫市",
+                    "pyf": "ZhongWeiShi",
+                    "pys": "ZWS"
+                },
+                {
+                    "id": "9d9164fc-ddfa-40e3-8b7c-1e2b027d9220",
+                    "citycode": "187",
+                    "name": "中山市",
+                    "pyf": "ZhongShanShi",
+                    "pys": "ZSS"
+                },
+                {
+                    "id": "5236900a-1b01-45c6-9322-873bd6d246e2",
+                    "citycode": "198",
+                    "name": "湛江市",
+                    "pyf": "ZhanJiangShi",
+                    "pys": "ZJS"
+                },
+                {
+                    "id": "90f8ab6c-d100-46d9-a7a5-f558cd9954ac",
+                    "citycode": "222",
+                    "name": "株洲市",
+                    "pyf": "ZhuZhouShi",
+                    "pys": "ZZS"
+                },
+                {
+                    "id": "1d9126c9-d2df-492e-b435-2fbd560825e7",
+                    "citycode": "242",
+                    "name": "资阳市",
+                    "pyf": "ZiYangShi",
+                    "pys": "ZYS"
+                },
+                {
+                    "id": "1117dd08-e6ad-4b8e-8674-66e8f4601ad9",
+                    "citycode": "245",
+                    "name": "舟山市",
+                    "pyf": "ZhouShanShi",
+                    "pys": "ZSS"
+                },
+                {
+                    "id": "0ac9455b-c53d-48f7-923a-b7ba7cad919b",
+                    "citycode": "255",
+                    "name": "漳州市",
+                    "pyf": "ZhangZhouShi",
+                    "pys": "ZZS"
+                },
+                {
+                    "id": "cf1ffd34-e871-40a4-8fe2-e682379d78a1",
+                    "citycode": "262",
+                    "name": "遵义市",
+                    "pyf": "ZunYiShi",
+                    "pys": "ZYS"
+                },
+                {
+                    "id": "b5ea3e92-fd22-40a5-a18b-d769886a6f99",
+                    "citycode": "264",
+                    "name": "张家口市",
+                    "pyf": "ZhangJiaKouShi",
+                    "pys": "ZJKS"
+                },
+                {
+                    "id": "45f9e509-342f-48d3-afb0-f33f3e874a62",
+                    "citycode": "268",
+                    "name": "郑州市",
+                    "pyf": "ZhengZhouShi",
+                    "pys": "ZZS"
+                },
+                {
+                    "id": "2c723eb1-4caa-4e17-97f4-a8d4f3969a7c",
+                    "citycode": "269",
+                    "name": "驻马店市",
+                    "pyf": "ZhuMaDianShi",
+                    "pys": "ZMDS"
+                },
+                {
+                    "id": "d76dcb13-4be0-4d29-800e-87600d5d7069",
+                    "citycode": "308",
+                    "name": "周口市",
+                    "pyf": "ZhouKouShi",
+                    "pys": "ZKS"
+                },
+                {
+                    "id": "d92ee21d-3da2-4eda-9d64-91b6fa9d6b4a",
+                    "citycode": "312",
+                    "name": "张家界市",
+                    "pyf": "ZhangJiaJieShi",
+                    "pys": "ZJJS"
+                },
+                {
+                    "id": "0fa8a3ed-8b81-4ef1-9f25-c12f366e6502",
+                    "citycode": "336",
+                    "name": "昭通市",
+                    "pyf": "ZhaoTongShi",
+                    "pys": "ZTS"
+                },
+                {
+                    "id": "d89777d8-8b1f-405f-b161-d5416e928118",
+                    "citycode": "338",
+                    "name": "肇庆市",
+                    "pyf": "ZhaoQingShi",
+                    "pys": "ZQS"
+                },
+                {
+                    "id": "64333703-04d4-41a8-9b8d-874e6f3c060d",
+                    "citycode": "354",
+                    "name": "淄博市",
+                    "pyf": "ZiBoShi",
+                    "pys": "ZBS"
+                },
+                {
+                    "id": "923e0174-58fb-40e6-8db9-757cf281512e",
+                    "citycode": "78",
+                    "name": "自贡市",
+                    "pyf": "ZiGongShi",
+                    "pys": "ZGS"
+                }
+            ]
+        }
+    ]
+}

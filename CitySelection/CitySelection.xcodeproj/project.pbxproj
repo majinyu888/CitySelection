@@ -28,6 +28,12 @@
 		2DD5059F1CA13CD100EA4C32 /* HomeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DD5059E1CA13CD100EA4C32 /* HomeVC.m */; };
 		2DD505A11CA13DD400EA4C32 /* Thanks in Resources */ = {isa = PBXBuildFile; fileRef = 2DD505A01CA13DD400EA4C32 /* Thanks */; };
 		2DD505A71CA13F4B00EA4C32 /* CitySelectionVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DD505A61CA13F4B00EA4C32 /* CitySelectionVC.m */; };
+		C98FE1991CA17A2600FF64D8 /* CitySelectionListVC.m in Sources */ = {isa = PBXBuildFile; fileRef = C98FE1981CA17A2600FF64D8 /* CitySelectionListVC.m */; };
+		C98FE19B1CA17CA300FF64D8 /* CityList.json in Resources */ = {isa = PBXBuildFile; fileRef = C98FE19A1CA17CA300FF64D8 /* CityList.json */; };
+		C98FE1AD1CA17E1000FF64D8 /* CityGroupInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = C98FE1AA1CA17E1000FF64D8 /* CityGroupInfo.m */; };
+		C98FE1AE1CA17E1000FF64D8 /* CityInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = C98FE1AC1CA17E1000FF64D8 /* CityInfo.m */; };
+		C98FE1B21CA182D600FF64D8 /* JYUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = C98FE1B11CA182D600FF64D8 /* JYUtils.m */; };
+		C98FE1B51CA184C800FF64D8 /* JYJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = C98FE1B41CA184C800FF64D8 /* JYJSON.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +100,17 @@
 		2DD505A01CA13DD400EA4C32 /* Thanks */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Thanks; sourceTree = "<group>"; };
 		2DD505A51CA13F4B00EA4C32 /* CitySelectionVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CitySelectionVC.h; sourceTree = "<group>"; };
 		2DD505A61CA13F4B00EA4C32 /* CitySelectionVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CitySelectionVC.m; sourceTree = "<group>"; };
+		C98FE1971CA17A2600FF64D8 /* CitySelectionListVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CitySelectionListVC.h; sourceTree = "<group>"; };
+		C98FE1981CA17A2600FF64D8 /* CitySelectionListVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CitySelectionListVC.m; sourceTree = "<group>"; };
+		C98FE19A1CA17CA300FF64D8 /* CityList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CityList.json; sourceTree = "<group>"; };
+		C98FE1A91CA17E1000FF64D8 /* CityGroupInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CityGroupInfo.h; sourceTree = "<group>"; };
+		C98FE1AA1CA17E1000FF64D8 /* CityGroupInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CityGroupInfo.m; sourceTree = "<group>"; };
+		C98FE1AB1CA17E1000FF64D8 /* CityInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CityInfo.h; sourceTree = "<group>"; };
+		C98FE1AC1CA17E1000FF64D8 /* CityInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CityInfo.m; sourceTree = "<group>"; };
+		C98FE1B01CA182D600FF64D8 /* JYUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JYUtils.h; sourceTree = "<group>"; };
+		C98FE1B11CA182D600FF64D8 /* JYUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JYUtils.m; sourceTree = "<group>"; };
+		C98FE1B31CA184C800FF64D8 /* JYJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JYJSON.h; sourceTree = "<group>"; };
+		C98FE1B41CA184C800FF64D8 /* JYJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JYJSON.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +174,7 @@
 		2DD505361CA13B4600EA4C32 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C98FE19A1CA17CA300FF64D8 /* CityList.json */,
 				2DD505451CA13B4600EA4C32 /* Assets.xcassets */,
 				2DD505421CA13B4600EA4C32 /* CitySelection.xcdatamodeld */,
 				2DD5054A1CA13B4600EA4C32 /* Info.plist */,
@@ -198,9 +216,8 @@
 			children = (
 				2DD5059D1CA13CD100EA4C32 /* HomeVC.h */,
 				2DD5059E1CA13CD100EA4C32 /* HomeVC.m */,
+				C98FE1A81CA17E1000FF64D8 /* Model */,
 				2DD505A21CA13E8800EA4C32 /* Controller */,
-				2DD505A31CA13E8800EA4C32 /* Model */,
-				2DD505A41CA13E8800EA4C32 /* View */,
 			);
 			path = MVC;
 			sourceTree = "<group>";
@@ -218,6 +235,10 @@
 			children = (
 				2DD5059A1CA13C7700EA4C32 /* BaseVC.h */,
 				2DD5059B1CA13C7700EA4C32 /* BaseVC.m */,
+				C98FE1B01CA182D600FF64D8 /* JYUtils.h */,
+				C98FE1B11CA182D600FF64D8 /* JYUtils.m */,
+				C98FE1B31CA184C800FF64D8 /* JYJSON.h */,
+				C98FE1B41CA184C800FF64D8 /* JYJSON.m */,
 			);
 			path = Base;
 			sourceTree = "<group>";
@@ -259,22 +280,21 @@
 			children = (
 				2DD505A51CA13F4B00EA4C32 /* CitySelectionVC.h */,
 				2DD505A61CA13F4B00EA4C32 /* CitySelectionVC.m */,
+				C98FE1971CA17A2600FF64D8 /* CitySelectionListVC.h */,
+				C98FE1981CA17A2600FF64D8 /* CitySelectionListVC.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
 		};
-		2DD505A31CA13E8800EA4C32 /* Model */ = {
+		C98FE1A81CA17E1000FF64D8 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				C98FE1A91CA17E1000FF64D8 /* CityGroupInfo.h */,
+				C98FE1AA1CA17E1000FF64D8 /* CityGroupInfo.m */,
+				C98FE1AB1CA17E1000FF64D8 /* CityInfo.h */,
+				C98FE1AC1CA17E1000FF64D8 /* CityInfo.m */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		2DD505A41CA13E8800EA4C32 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -382,6 +402,7 @@
 			files = (
 				2DD505491CA13B4600EA4C32 /* LaunchScreen.storyboard in Resources */,
 				2DD505A11CA13DD400EA4C32 /* Thanks in Resources */,
+				C98FE19B1CA17CA300FF64D8 /* CityList.json in Resources */,
 				2DD505461CA13B4600EA4C32 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -407,17 +428,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C98FE1991CA17A2600FF64D8 /* CitySelectionListVC.m in Sources */,
 				2DD505941CA13C3900EA4C32 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
 				2DD505921CA13C3900EA4C32 /* MASViewConstraint.m in Sources */,
+				C98FE1B21CA182D600FF64D8 /* JYUtils.m in Sources */,
 				2DD5058D1CA13C3900EA4C32 /* MASCompositeConstraint.m in Sources */,
 				2DD5059F1CA13CD100EA4C32 /* HomeVC.m in Sources */,
 				2DD505A71CA13F4B00EA4C32 /* CitySelectionVC.m in Sources */,
+				C98FE1AE1CA17E1000FF64D8 /* CityInfo.m in Sources */,
+				C98FE1AD1CA17E1000FF64D8 /* CityGroupInfo.m in Sources */,
 				2DD505931CA13C3900EA4C32 /* NSArray+MASAdditions.m in Sources */,
 				2DD5056F1CA13B9E00EA4C32 /* AppDelegate.m in Sources */,
 				2DD505441CA13B4600EA4C32 /* CitySelection.xcdatamodeld in Sources */,
 				2DD505901CA13C3900EA4C32 /* MASLayoutConstraint.m in Sources */,
 				2DD5059C1CA13C7700EA4C32 /* BaseVC.m in Sources */,
 				2DD505381CA13B4600EA4C32 /* main.m in Sources */,
+				C98FE1B51CA184C800FF64D8 /* JYJSON.m in Sources */,
 				2DD505961CA13C3900EA4C32 /* ViewController+MASAdditions.m in Sources */,
 				2DD505951CA13C3900EA4C32 /* View+MASAdditions.m in Sources */,
 				2DD505911CA13C3900EA4C32 /* MASViewAttribute.m in Sources */,
@@ -644,6 +670,7 @@
 				2DD505651CA13B4600EA4C32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2DD505661CA13B4600EA4C32 /* Build configuration list for PBXNativeTarget "CitySelectionTests" */ = {
 			isa = XCConfigurationList;
@@ -652,6 +679,7 @@
 				2DD505681CA13B4600EA4C32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2DD505691CA13B4600EA4C32 /* Build configuration list for PBXNativeTarget "CitySelectionUITests" */ = {
 			isa = XCConfigurationList;
@@ -660,6 +688,7 @@
 				2DD5056B1CA13B4600EA4C32 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

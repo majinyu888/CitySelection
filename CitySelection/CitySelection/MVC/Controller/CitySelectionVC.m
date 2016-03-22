@@ -22,6 +22,14 @@
     [super viewDidLoad];
 }
 
+#pragma mark - UI
+
+- (void) initUI
+{
+
+    
+}
+
 
 
 
