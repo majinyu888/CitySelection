@@ -28,14 +28,16 @@ UITableViewDelegate
 {
     [super viewDidLoad];
     
-    [self initData];
+    [self initDataAndUI];
 }
 
 #pragma mark - Data & UI
-//数据
--(void)initData
+/**
+ *  数据 和  UI
+ */
+-(void)initDataAndUI
 {
-    self.title = @"城市选择";
+    self.title = @"Demo";
     self.arrList = @[
                      NSStringFromClass([CitySelectionVC class])
                      ];
@@ -78,7 +80,6 @@ UITableViewDelegate
 
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    [tableView deselectRowAtIndexPath:indexPath animated:YES];
     Class class = NSClassFromString(_arrList[indexPath.row]);
     [self.navigationController pushViewController:[[class alloc] init] animated:YES];
 }

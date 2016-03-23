@@ -6,14 +6,14 @@
 //  Copyright © 2016年 cn.com.cucsi. All rights reserved.
 //
 
-@class CityModel;
+@class CityInfo;
 
 #import <Foundation/Foundation.h>
 
 @interface CityGroupInfo : NSObject
 
 @property (nonatomic, copy)   NSString *AZ;
-@property (nonatomic, strong) NSMutableArray<CityModel *> *cities;
+@property (nonatomic, strong) NSMutableArray<CityInfo *> *cities;
 
 - (instancetype) initWithDic:(NSDictionary *)dic;
 

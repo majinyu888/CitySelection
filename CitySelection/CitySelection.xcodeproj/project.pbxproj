@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D5FBDE71CA222F2006556C5 /* CitySelectionView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D5FBDE61CA222F2006556C5 /* CitySelectionView.xib */; };
+		2D5FBDEA1CA22896006556C5 /* CityCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D5FBDE91CA22896006556C5 /* CityCollectionViewCell.m */; };
+		2D5FBDED1CA228B7006556C5 /* CitySelectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2D5FBDEC1CA228B7006556C5 /* CitySelectionView.m */; };
+		2D5FBDEF1CA228CD006556C5 /* CityCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2D5FBDEE1CA228CD006556C5 /* CityCollectionViewCell.xib */; };
 		2DD505381CA13B4600EA4C32 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DD505371CA13B4600EA4C32 /* main.m */; };
 		2DD505441CA13B4600EA4C32 /* CitySelection.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2DD505421CA13B4600EA4C32 /* CitySelection.xcdatamodeld */; };
 		2DD505461CA13B4600EA4C32 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DD505451CA13B4600EA4C32 /* Assets.xcassets */; };
@@ -54,6 +58,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2D5FBDE61CA222F2006556C5 /* CitySelectionView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CitySelectionView.xib; sourceTree = "<group>"; };
+		2D5FBDE81CA22896006556C5 /* CityCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CityCollectionViewCell.h; sourceTree = "<group>"; };
+		2D5FBDE91CA22896006556C5 /* CityCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CityCollectionViewCell.m; sourceTree = "<group>"; };
+		2D5FBDEB1CA228B7006556C5 /* CitySelectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CitySelectionView.h; sourceTree = "<group>"; };
+		2D5FBDEC1CA228B7006556C5 /* CitySelectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CitySelectionView.m; sourceTree = "<group>"; };
+		2D5FBDEE1CA228CD006556C5 /* CityCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CityCollectionViewCell.xib; sourceTree = "<group>"; };
 		2DD505331CA13B4600EA4C32 /* CitySelection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CitySelection.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DD505371CA13B4600EA4C32 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2DD505431CA13B4600EA4C32 /* CitySelection.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CitySelection.xcdatamodel; sourceTree = "<group>"; };
@@ -138,6 +148,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2D5FBDE21CA2224F006556C5 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				2D5FBDE81CA22896006556C5 /* CityCollectionViewCell.h */,
+				2D5FBDE91CA22896006556C5 /* CityCollectionViewCell.m */,
+				2D5FBDEE1CA228CD006556C5 /* CityCollectionViewCell.xib */,
+				2D5FBDEB1CA228B7006556C5 /* CitySelectionView.h */,
+				2D5FBDEC1CA228B7006556C5 /* CitySelectionView.m */,
+				2D5FBDE61CA222F2006556C5 /* CitySelectionView.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		2DD5052A1CA13B4500EA4C32 = {
 			isa = PBXGroup;
 			children = (
@@ -217,6 +240,7 @@
 				2DD5059D1CA13CD100EA4C32 /* HomeVC.h */,
 				2DD5059E1CA13CD100EA4C32 /* HomeVC.m */,
 				C98FE1A81CA17E1000FF64D8 /* Model */,
+				2D5FBDE21CA2224F006556C5 /* View */,
 				2DD505A21CA13E8800EA4C32 /* Controller */,
 			);
 			path = MVC;
@@ -400,6 +424,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D5FBDE71CA222F2006556C5 /* CitySelectionView.xib in Resources */,
+				2D5FBDEF1CA228CD006556C5 /* CityCollectionViewCell.xib in Resources */,
 				2DD505491CA13B4600EA4C32 /* LaunchScreen.storyboard in Resources */,
 				2DD505A11CA13DD400EA4C32 /* Thanks in Resources */,
 				C98FE19B1CA17CA300FF64D8 /* CityList.json in Resources */,
@@ -437,11 +463,13 @@
 				2DD505A71CA13F4B00EA4C32 /* CitySelectionVC.m in Sources */,
 				C98FE1AE1CA17E1000FF64D8 /* CityInfo.m in Sources */,
 				C98FE1AD1CA17E1000FF64D8 /* CityGroupInfo.m in Sources */,
+				2D5FBDEA1CA22896006556C5 /* CityCollectionViewCell.m in Sources */,
 				2DD505931CA13C3900EA4C32 /* NSArray+MASAdditions.m in Sources */,
 				2DD5056F1CA13B9E00EA4C32 /* AppDelegate.m in Sources */,
 				2DD505441CA13B4600EA4C32 /* CitySelection.xcdatamodeld in Sources */,
 				2DD505901CA13C3900EA4C32 /* MASLayoutConstraint.m in Sources */,
 				2DD5059C1CA13C7700EA4C32 /* BaseVC.m in Sources */,
+				2D5FBDED1CA228B7006556C5 /* CitySelectionView.m in Sources */,
 				2DD505381CA13B4600EA4C32 /* main.m in Sources */,
 				C98FE1B51CA184C800FF64D8 /* JYJSON.m in Sources */,
 				2DD505961CA13C3900EA4C32 /* ViewController+MASAdditions.m in Sources */,

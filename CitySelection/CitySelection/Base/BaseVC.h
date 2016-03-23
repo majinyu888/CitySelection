@@ -20,6 +20,7 @@
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"
 #import "Masonry.h"
+#import "JYUtils.h"
 
 @interface BaseVC : UIViewController
 
