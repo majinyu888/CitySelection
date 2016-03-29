@@ -32,6 +32,10 @@
 		2DD5059F1CA13CD100EA4C32 /* HomeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DD5059E1CA13CD100EA4C32 /* HomeVC.m */; };
 		2DD505A11CA13DD400EA4C32 /* Thanks in Resources */ = {isa = PBXBuildFile; fileRef = 2DD505A01CA13DD400EA4C32 /* Thanks */; };
 		2DD505A71CA13F4B00EA4C32 /* CitySelectionVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2DD505A61CA13F4B00EA4C32 /* CitySelectionVC.m */; };
+		C9523A241CA946310052EAE4 /* Person+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = C9523A1D1CA946310052EAE4 /* Person+CoreDataProperties.m */; };
+		C9523A251CA946310052EAE4 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = C9523A1F1CA946310052EAE4 /* Person.m */; };
+		C9523A261CA946310052EAE4 /* Book+CoreDataProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = C9523A211CA946310052EAE4 /* Book+CoreDataProperties.m */; };
+		C9523A271CA946310052EAE4 /* Book.m in Sources */ = {isa = PBXBuildFile; fileRef = C9523A231CA946310052EAE4 /* Book.m */; };
 		C98FE1991CA17A2600FF64D8 /* CitySelectionListVC.m in Sources */ = {isa = PBXBuildFile; fileRef = C98FE1981CA17A2600FF64D8 /* CitySelectionListVC.m */; };
 		C98FE19B1CA17CA300FF64D8 /* CityList.json in Resources */ = {isa = PBXBuildFile; fileRef = C98FE19A1CA17CA300FF64D8 /* CityList.json */; };
 		C98FE1AD1CA17E1000FF64D8 /* CityGroupInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = C98FE1AA1CA17E1000FF64D8 /* CityGroupInfo.m */; };
@@ -110,6 +114,14 @@
 		2DD505A01CA13DD400EA4C32 /* Thanks */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Thanks; sourceTree = "<group>"; };
 		2DD505A51CA13F4B00EA4C32 /* CitySelectionVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CitySelectionVC.h; sourceTree = "<group>"; };
 		2DD505A61CA13F4B00EA4C32 /* CitySelectionVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CitySelectionVC.m; sourceTree = "<group>"; };
+		C9523A1C1CA946310052EAE4 /* Person+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Person+CoreDataProperties.h"; sourceTree = "<group>"; };
+		C9523A1D1CA946310052EAE4 /* Person+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Person+CoreDataProperties.m"; sourceTree = "<group>"; };
+		C9523A1E1CA946310052EAE4 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		C9523A1F1CA946310052EAE4 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		C9523A201CA946310052EAE4 /* Book+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Book+CoreDataProperties.h"; sourceTree = "<group>"; };
+		C9523A211CA946310052EAE4 /* Book+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Book+CoreDataProperties.m"; sourceTree = "<group>"; };
+		C9523A221CA946310052EAE4 /* Book.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Book.h; sourceTree = "<group>"; };
+		C9523A231CA946310052EAE4 /* Book.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Book.m; sourceTree = "<group>"; };
 		C98FE1971CA17A2600FF64D8 /* CitySelectionListVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CitySelectionListVC.h; sourceTree = "<group>"; };
 		C98FE1981CA17A2600FF64D8 /* CitySelectionListVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CitySelectionListVC.m; sourceTree = "<group>"; };
 		C98FE19A1CA17CA300FF64D8 /* CityList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CityList.json; sourceTree = "<group>"; };
@@ -313,6 +325,14 @@
 		C98FE1A81CA17E1000FF64D8 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				C9523A1C1CA946310052EAE4 /* Person+CoreDataProperties.h */,
+				C9523A1D1CA946310052EAE4 /* Person+CoreDataProperties.m */,
+				C9523A1E1CA946310052EAE4 /* Person.h */,
+				C9523A1F1CA946310052EAE4 /* Person.m */,
+				C9523A201CA946310052EAE4 /* Book+CoreDataProperties.h */,
+				C9523A211CA946310052EAE4 /* Book+CoreDataProperties.m */,
+				C9523A221CA946310052EAE4 /* Book.h */,
+				C9523A231CA946310052EAE4 /* Book.m */,
 				C98FE1A91CA17E1000FF64D8 /* CityGroupInfo.h */,
 				C98FE1AA1CA17E1000FF64D8 /* CityGroupInfo.m */,
 				C98FE1AB1CA17E1000FF64D8 /* CityInfo.h */,
@@ -454,8 +474,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9523A271CA946310052EAE4 /* Book.m in Sources */,
 				C98FE1991CA17A2600FF64D8 /* CitySelectionListVC.m in Sources */,
 				2DD505941CA13C3900EA4C32 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
+				C9523A261CA946310052EAE4 /* Book+CoreDataProperties.m in Sources */,
 				2DD505921CA13C3900EA4C32 /* MASViewConstraint.m in Sources */,
 				C98FE1B21CA182D600FF64D8 /* JYUtils.m in Sources */,
 				2DD5058D1CA13C3900EA4C32 /* MASCompositeConstraint.m in Sources */,
@@ -472,10 +494,12 @@
 				2D5FBDED1CA228B7006556C5 /* CitySelectionView.m in Sources */,
 				2DD505381CA13B4600EA4C32 /* main.m in Sources */,
 				C98FE1B51CA184C800FF64D8 /* JYJSON.m in Sources */,
+				C9523A241CA946310052EAE4 /* Person+CoreDataProperties.m in Sources */,
 				2DD505961CA13C3900EA4C32 /* ViewController+MASAdditions.m in Sources */,
 				2DD505951CA13C3900EA4C32 /* View+MASAdditions.m in Sources */,
 				2DD505911CA13C3900EA4C32 /* MASViewAttribute.m in Sources */,
 				2DD5058E1CA13C3900EA4C32 /* MASConstraint.m in Sources */,
+				C9523A251CA946310052EAE4 /* Person.m in Sources */,
 				2DD5058F1CA13C3900EA4C32 /* MASConstraintMaker.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
