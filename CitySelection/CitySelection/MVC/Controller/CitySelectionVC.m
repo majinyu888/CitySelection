@@ -56,6 +56,11 @@ CLLocationManagerDelegate
     [self initDataAndUI];
 }
 
+- (void)dealloc
+{
+    [[NSNotificationCenter defaultCenter] removeObserver:self];
+}
+
 #pragma mark - Custom Function
 /**
  *  数据和UI
@@ -64,6 +69,22 @@ CLLocationManagerDelegate
 {
     self.title = @"城市选择";
     [self rightItem];
+    
+    [[NSNotificationCenter defaultCenter] addObserver:self
+                                             selector:@selector(updateUserSelectCity:)
+                                                 name:@"updateUserSelectCity"
+                                               object:nil];
+}
+
+- (void)updateUserSelectCity:(NSNotification *)noti
+{
+    CityInfo *city = noti.object;
+    self.title = city.city_name;
+    self.currentCity = city;
+    self.citySeletctionView.currentCity = city;
+    [self rightItem];
+    
+    NSLog(@"在这里做其他更新页面的事情");
 }
 
 - (void)rightItem
@@ -148,7 +169,7 @@ CLLocationManagerDelegate
 /**
  *  弹出城市选择
  */
-- (void) rightItemClick
+- (void)rightItemClick
 {
     [self.view addSubview:self.citySeletctionView];
     [UIView animateWithDuration:0.3 delay:0 options:UIViewAnimationOptionCurveEaseInOut animations:^{
